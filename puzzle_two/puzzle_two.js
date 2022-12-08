@@ -1,5 +1,6 @@
 import { open, rm } from 'node:fs/promises';
 import { stdin as input, stdout as output } from 'node:process';
+import { OUTCOMES, SCORES, getWeightage, getOutcomeIndex, next, previous } from './puzzle_two_common.js';
 
 let RESULTS = [];
 let FORMATTED_DATA = [];
@@ -11,41 +12,6 @@ const OUTPUT_FILE = './parsed_data.json';
 
 let PUZZLE_2 = {};
 
-const SCORES = {
-    LOST: 0,
-    DRAW: 3,
-    WIN: 6,
-};
-
-
-
-function getWeightage(result) {
-    const outcome = OUTCOMES.find((o) => {
-        return o.aliases.includes(result);
-    });
-    return outcome ? outcome.weightage : 0;
-}
-
-const OUTCOMES = [
-    { code: 'R', fullName: 'ROCK', weightage: 1, aliases: ['A', 'X'], opponent: 'A', yourself: 'X'},
-    { code: 'P', fullName: 'PAPER', weightage: 2, aliases: ['B', 'Y'], opponent: 'B', yourself: 'Y'},
-    { code: 'S', fullName: 'SCISSORS', weightage: 3, aliases: ['C', 'Z'], opponent: 'C', yourself: 'Z'},
-];
-
-function next(i) {
-    const outcomesLength = OUTCOMES.length;
-    const firstIndex = 0;
-    const lastIndex = outcomesLength - 1;
-    if (i === lastIndex) return firstIndex;
-    return ++i; 
-}
-
-function getOutcomeIndex(result) {
-    return OUTCOMES.findIndex((o) => {
-        return o.aliases.includes(result);
-    });
-}
-
 function getResultOfTheRound(opponent, yourself) {
     // P <- (S) <-R <- P (Circular Linked List)
     const outcomeIndexOpponent = getOutcomeIndex(opponent);
@@ -54,7 +20,7 @@ function getResultOfTheRound(opponent, yourself) {
     
     if (outcomeIndexOpponent === outcomeIndexYourself) return 'DRAW';
     if (outcomeIndexYourself === nextIndexToOpponent) return 'WIN';
-    return 'LOST'; 
+    return 'LOSE'; 
 };
 
 function calculateYourScore(data = RESULTS) {
