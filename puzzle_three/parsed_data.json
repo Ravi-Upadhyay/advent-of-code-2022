@@ -1,0 +1,3004 @@
+{
+    "formattedData": [
+        {
+            "rucksackItems": "RCMRQjLLWGTjnlnZwwnZJRZH",
+            "firstCompartment": "RCMRQjLLWGTj",
+            "secondCompartment": "nlnZwwnZJRZH",
+            "itemsCount": 24,
+            "itemsCountHalf": 12,
+            "hadError": true,
+            "itemWithError": "R",
+            "priorityItemError": 44
+        },
+        {
+            "rucksackItems": "qnvfhpSbvSppNddNdSqbbmmdPrwttJVrVPDVrJtHtwPZhrPJ",
+            "firstCompartment": "qnvfhpSbvSppNddNdSqbbmmd",
+            "secondCompartment": "PrwttJVrVPDVrJtHtwPZhrPJ",
+            "itemsCount": 48,
+            "itemsCountHalf": 24,
+            "hadError": true,
+            "itemWithError": "h",
+            "priorityItemError": 8
+        },
+        {
+            "rucksackItems": "BFpFzSSqSFFSvQsnWgCMjTLzng",
+            "firstCompartment": "BFpFzSSqSFFSv",
+            "secondCompartment": "QsnWgCMjTLzng",
+            "itemsCount": 26,
+            "itemsCountHalf": 13,
+            "hadError": true,
+            "itemWithError": "z",
+            "priorityItemError": 26
+        },
+        {
+            "rucksackItems": "DbWVcVRRdlLffvtqjTWNgQ",
+            "firstCompartment": "DbWVcVRRdlL",
+            "secondCompartment": "ffvtqjTWNgQ",
+            "itemsCount": 22,
+            "itemsCountHalf": 11,
+            "hadError": true,
+            "itemWithError": "W",
+            "priorityItemError": 49
+        },
+        {
+            "rucksackItems": "mJJMpsmrMrJSHJpsHrFHvBvgHvqfNvzffgTvfj",
+            "firstCompartment": "mJJMpsmrMrJSHJpsHrF",
+            "secondCompartment": "HvBvgHvqfNvzffgTvfj",
+            "itemsCount": 38,
+            "itemsCountHalf": 19,
+            "hadError": true,
+            "itemWithError": "H",
+            "priorityItemError": 34
+        },
+        {
+            "rucksackItems": "mMhPjmjmFPJhMSGGcDRlwRdcLGPc",
+            "firstCompartment": "mMhPjmjmFPJhMS",
+            "secondCompartment": "GGcDRlwRdcLGPc",
+            "itemsCount": 28,
+            "itemsCountHalf": 14,
+            "hadError": true,
+            "itemWithError": "P",
+            "priorityItemError": 42
+        },
+        {
+            "rucksackItems": "qFcbmWFJqqWpRJcQWpqsQQQwSPCPrHRHCPdNZtSrSHwrNZ",
+            "firstCompartment": "qFcbmWFJqqWpRJcQWpqsQQQ",
+            "secondCompartment": "wSPCPrHRHCPdNZtSrSHwrNZ",
+            "itemsCount": 46,
+            "itemsCountHalf": 23,
+            "hadError": true,
+            "itemWithError": "R",
+            "priorityItemError": 44
+        },
+        {
+            "rucksackItems": "jGMjGLhhhgTvghgtGVjnNCrPVwZSZffSNSwHZZdH",
+            "firstCompartment": "jGMjGLhhhgTvghgtGVjn",
+            "secondCompartment": "NCrPVwZSZffSNSwHZZdH",
+            "itemsCount": 40,
+            "itemsCountHalf": 20,
+            "hadError": true,
+            "itemWithError": "V",
+            "priorityItemError": 48
+        },
+        {
+            "rucksackItems": "DvzDlvvhnjlMlglglGGhDLpqqcJWWtsmszpWbBBBmQmb",
+            "firstCompartment": "DvzDlvvhnjlMlglglGGhDL",
+            "secondCompartment": "pqqcJWWtsmszpWbBBBmQmb",
+            "itemsCount": 44,
+            "itemsCountHalf": 22,
+            "hadError": true,
+            "itemWithError": "z",
+            "priorityItemError": 26
+        },
+        {
+            "rucksackItems": "SPLPHQbJSbPsvTLmfDvVDctvWhcDlD",
+            "firstCompartment": "SPLPHQbJSbPsvTL",
+            "secondCompartment": "mfDvVDctvWhcDlD",
+            "itemsCount": 30,
+            "itemsCountHalf": 15,
+            "hadError": true,
+            "itemWithError": "v",
+            "priorityItemError": 22
+        },
+        {
+            "rucksackItems": "jdRRzzGgJqwrpMRMgdjlcVcWqfWWlfDlmmlWhB",
+            "firstCompartment": "jdRRzzGgJqwrpMRMgdj",
+            "secondCompartment": "lcVcWqfWWlfDlmmlWhB",
+            "itemsCount": 38,
+            "itemsCountHalf": 19,
+            "hadError": true,
+            "itemWithError": "q",
+            "priorityItemError": 17
+        },
+        {
+            "rucksackItems": "rwgRGdpGprNNLQLsbZJPsn",
+            "firstCompartment": "rwgRGdpGprN",
+            "secondCompartment": "NLQLsbZJPsn",
+            "itemsCount": 22,
+            "itemsCountHalf": 11,
+            "hadError": true,
+            "itemWithError": "N",
+            "priorityItemError": 40
+        },
+        {
+            "rucksackItems": "GZhTVLztHrSzrRBz",
+            "firstCompartment": "GZhTVLzt",
+            "secondCompartment": "HrSzrRBz",
+            "itemsCount": 16,
+            "itemsCountHalf": 8,
+            "hadError": true,
+            "itemWithError": "z",
+            "priorityItemError": 26
+        },
+        {
+            "rucksackItems": "MJWjMvsfSCLSnrJn",
+            "firstCompartment": "MJWjMvsf",
+            "secondCompartment": "SCLSnrJn",
+            "itemsCount": 16,
+            "itemsCountHalf": 8,
+            "hadError": true,
+            "itemWithError": "J",
+            "priorityItemError": 36
+        },
+        {
+            "rucksackItems": "MjglcgWMdccvZGFtTDchLLLh",
+            "firstCompartment": "MjglcgWMdccv",
+            "secondCompartment": "ZGFtTDchLLLh",
+            "itemsCount": 24,
+            "itemsCountHalf": 12,
+            "hadError": true,
+            "itemWithError": "c",
+            "priorityItemError": 3
+        },
+        {
+            "rucksackItems": "rgDHBgBjRgRTgwzwthBnQwmBtB",
+            "firstCompartment": "rgDHBgBjRgRTg",
+            "secondCompartment": "wzwthBnQwmBtB",
+            "itemsCount": 26,
+            "itemsCountHalf": 13,
+            "hadError": true,
+            "itemWithError": "B",
+            "priorityItemError": 28
+        },
+        {
+            "rucksackItems": "MsMpSfMsTGTFFLdFFFMFsnNmthNnzhthtwmWnznz",
+            "firstCompartment": "MsMpSfMsTGTFFLdFFFMF",
+            "secondCompartment": "snNmthNnzhthtwmWnznz",
+            "itemsCount": 40,
+            "itemsCountHalf": 20,
+            "hadError": true,
+            "itemWithError": "s",
+            "priorityItemError": 19
+        },
+        {
+            "rucksackItems": "pZMpJdvJMGRHVJJTVHjb",
+            "firstCompartment": "pZMpJdvJMG",
+            "secondCompartment": "RHVJJTVHjb",
+            "itemsCount": 20,
+            "itemsCountHalf": 10,
+            "hadError": true,
+            "itemWithError": "J",
+            "priorityItemError": 36
+        },
+        {
+            "rucksackItems": "TQVqZVBcBBdBfbpN",
+            "firstCompartment": "TQVqZVBc",
+            "secondCompartment": "BBdBfbpN",
+            "itemsCount": 16,
+            "itemsCountHalf": 8,
+            "hadError": true,
+            "itemWithError": "B",
+            "priorityItemError": 28
+        },
+        {
+            "rucksackItems": "zvzrtCshrntCHslPMMMFpZHbNSpb",
+            "firstCompartment": "zvzrtCshrntCHs",
+            "secondCompartment": "lPMMMFpZHbNSpb",
+            "itemsCount": 28,
+            "itemsCountHalf": 14,
+            "hadError": true,
+            "itemWithError": "H",
+            "priorityItemError": 34
+        },
+        {
+            "rucksackItems": "hLWhGLttsvLvrrWvhzVmQgwJZTRcggTjGcgT",
+            "firstCompartment": "hLWhGLttsvLvrrWvhz",
+            "secondCompartment": "VmQgwJZTRcggTjGcgT",
+            "itemsCount": 36,
+            "itemsCountHalf": 18,
+            "hadError": true,
+            "itemWithError": "G",
+            "priorityItemError": 33
+        },
+        {
+            "rucksackItems": "SqRGLHtSbtNTbhjFTjDDpF",
+            "firstCompartment": "SqRGLHtSbtN",
+            "secondCompartment": "TbhjFTjDDpF",
+            "itemsCount": 22,
+            "itemsCountHalf": 11,
+            "hadError": true,
+            "itemWithError": "b",
+            "priorityItemError": 2
+        },
+        {
+            "rucksackItems": "WwgJgmdmMdwPDVQQBBhSBFwV",
+            "firstCompartment": "WwgJgmdmMdwP",
+            "secondCompartment": "DVQQBBhSBFwV",
+            "itemsCount": 24,
+            "itemsCountHalf": 12,
+            "hadError": true,
+            "itemWithError": "w",
+            "priorityItemError": 23
+        },
+        {
+            "rucksackItems": "JMPlmlSldWZmRqtLsRGRtvls",
+            "firstCompartment": "JMPlmlSldWZm",
+            "secondCompartment": "RqtLsRGRtvls",
+            "itemsCount": 24,
+            "itemsCountHalf": 12,
+            "hadError": true,
+            "itemWithError": "l",
+            "priorityItemError": 12
+        },
+        {
+            "rucksackItems": "mZvmvPNmlNJPJzzmgNvNgdqqdBSpfHBqSsHqHfwpsffq",
+            "firstCompartment": "mZvmvPNmlNJPJzzmgNvNgd",
+            "secondCompartment": "qqdBSpfHBqSsHqHfwpsffq",
+            "itemsCount": 44,
+            "itemsCountHalf": 22,
+            "hadError": true,
+            "itemWithError": "d",
+            "priorityItemError": 4
+        },
+        {
+            "rucksackItems": "nhDQDrwLrVVnqfGnsBGBGGsH",
+            "firstCompartment": "nhDQDrwLrVVn",
+            "secondCompartment": "qfGnsBGBGGsH",
+            "itemsCount": 24,
+            "itemsCountHalf": 12,
+            "hadError": true,
+            "itemWithError": "n",
+            "priorityItemError": 14
+        },
+        {
+            "rucksackItems": "VjCDMhbDjLjtFhtLhLhQjNZcZPwWWcczmvglgJJN",
+            "firstCompartment": "VjCDMhbDjLjtFhtLhLhQ",
+            "secondCompartment": "jNZcZPwWWcczmvglgJJN",
+            "itemsCount": 40,
+            "itemsCountHalf": 20,
+            "hadError": true,
+            "itemWithError": "j",
+            "priorityItemError": 10
+        },
+        {
+            "rucksackItems": "wwqnwZGGZqqMpMprpZqwGlLDtNDffdBdNVBmNGBN",
+            "firstCompartment": "wwqnwZGGZqqMpMprpZqw",
+            "secondCompartment": "GlLDtNDffdBdNVBmNGBN",
+            "itemsCount": 40,
+            "itemsCountHalf": 20,
+            "hadError": true,
+            "itemWithError": "G",
+            "priorityItemError": 33
+        },
+        {
+            "rucksackItems": "TSTchTFbRLfLmVhNDm",
+            "firstCompartment": "TSTchTFbR",
+            "secondCompartment": "LfLmVhNDm",
+            "itemsCount": 18,
+            "itemsCountHalf": 9,
+            "hadError": true,
+            "itemWithError": "h",
+            "priorityItemError": 8
+        },
+        {
+            "rucksackItems": "SCLRvJQvRFTSRjqMqPZrZnrzZzjp",
+            "firstCompartment": "SCLRvJQvRFTSRj",
+            "secondCompartment": "qMqPZrZnrzZzjp",
+            "itemsCount": 28,
+            "itemsCountHalf": 14,
+            "hadError": true,
+            "itemWithError": "j",
+            "priorityItemError": 10
+        },
+        {
+            "rucksackItems": "cJfqGjgGJcsgsPnghgBm",
+            "firstCompartment": "cJfqGjgGJc",
+            "secondCompartment": "sgsPnghgBm",
+            "itemsCount": 20,
+            "itemsCountHalf": 10,
+            "hadError": true,
+            "itemWithError": "g",
+            "priorityItemError": 7
+        },
+        {
+            "rucksackItems": "FHHbQQHLWLbPQThqQQRnZs",
+            "firstCompartment": "FHHbQQHLWLb",
+            "secondCompartment": "PQThqQQRnZs",
+            "itemsCount": 22,
+            "itemsCountHalf": 11,
+            "hadError": true,
+            "itemWithError": "Q",
+            "priorityItemError": 43
+        },
+        {
+            "rucksackItems": "lLLMSCvrlFMwlSlFcNwqDVVpJcfjzVDf",
+            "firstCompartment": "lLLMSCvrlFMwlSlF",
+            "secondCompartment": "cNwqDVVpJcfjzVDf",
+            "itemsCount": 32,
+            "itemsCountHalf": 16,
+            "hadError": true,
+            "itemWithError": "w",
+            "priorityItemError": 23
+        },
+        {
+            "rucksackItems": "cRdRDhsDFzPztwJdGP",
+            "firstCompartment": "cRdRDhsDF",
+            "secondCompartment": "zPztwJdGP",
+            "itemsCount": 18,
+            "itemsCountHalf": 9,
+            "hadError": true,
+            "itemWithError": "d",
+            "priorityItemError": 4
+        },
+        {
+            "rucksackItems": "CVqpCqCgSNfCSQBpjtBwtlBBHLlmGjGG",
+            "firstCompartment": "CVqpCqCgSNfCSQBp",
+            "secondCompartment": "jtBwtlBBHLlmGjGG",
+            "itemsCount": 32,
+            "itemsCountHalf": 16,
+            "hadError": true,
+            "itemWithError": "B",
+            "priorityItemError": 28
+        },
+        {
+            "rucksackItems": "qfQfCVQfgQnVNpQCMqfcrFrwWDhrDnsvcRDsbc",
+            "firstCompartment": "qfQfCVQfgQnVNpQCMqf",
+            "secondCompartment": "crFrwWDhrDnsvcRDsbc",
+            "itemsCount": 38,
+            "itemsCountHalf": 19,
+            "hadError": true,
+            "itemWithError": "n",
+            "priorityItemError": 14
+        },
+        {
+            "rucksackItems": "nFWWzqWZQSqnJzNJzslJVsdV",
+            "firstCompartment": "nFWWzqWZQSqn",
+            "secondCompartment": "JzNJzslJVsdV",
+            "itemsCount": 24,
+            "itemsCountHalf": 12,
+            "hadError": true,
+            "itemWithError": "z",
+            "priorityItemError": 26
+        },
+        {
+            "rucksackItems": "vBBvsLvbBmBmRlGTNJJvRRTD",
+            "firstCompartment": "vBBvsLvbBmBm",
+            "secondCompartment": "RlGTNJJvRRTD",
+            "itemsCount": 24,
+            "itemsCountHalf": 12,
+            "hadError": true,
+            "itemWithError": "v",
+            "priorityItemError": 22
+        },
+        {
+            "rucksackItems": "tBbpmmPwCmHpMHHMrPCCcSnZSgcFcZgWFscSfgth",
+            "firstCompartment": "tBbpmmPwCmHpMHHMrPCC",
+            "secondCompartment": "cSnZSgcFcZgWFscSfgth",
+            "itemsCount": 40,
+            "itemsCountHalf": 20,
+            "hadError": true,
+            "itemWithError": "t",
+            "priorityItemError": 20
+        },
+        {
+            "rucksackItems": "LLssTJrqrpvrvvpJvdjggMlgzVgVggPlFPqz",
+            "firstCompartment": "LLssTJrqrpvrvvpJvd",
+            "secondCompartment": "jggMlgzVgVggPlFPqz",
+            "itemsCount": 36,
+            "itemsCountHalf": 18,
+            "hadError": true,
+            "itemWithError": "q",
+            "priorityItemError": 17
+        },
+        {
+            "rucksackItems": "HwZwCZfHNtbMzjgVnFPC",
+            "firstCompartment": "HwZwCZfHNt",
+            "secondCompartment": "bMzjgVnFPC",
+            "itemsCount": 20,
+            "itemsCountHalf": 10,
+            "hadError": true,
+            "itemWithError": "C",
+            "priorityItemError": 29
+        },
+        {
+            "rucksackItems": "RSttfRwZDtBcZwQMQdrQsdTBQQmW",
+            "firstCompartment": "RSttfRwZDtBcZw",
+            "secondCompartment": "QMQdrQsdTBQQmW",
+            "itemsCount": 28,
+            "itemsCountHalf": 14,
+            "hadError": true,
+            "itemWithError": "B",
+            "priorityItemError": 28
+        },
+        {
+            "rucksackItems": "lJnNhMJqljlNhSrdWlGGGQHwwH",
+            "firstCompartment": "lJnNhMJqljlNh",
+            "secondCompartment": "SrdWlGGGQHwwH",
+            "itemsCount": 26,
+            "itemsCountHalf": 13,
+            "hadError": true,
+            "itemWithError": "l",
+            "priorityItemError": 12
+        },
+        {
+            "rucksackItems": "vbTpbCsTFCTmbSmcRfVCfRpwcPdwWQQrdwHwBHrPdwrLLB",
+            "firstCompartment": "vbTpbCsTFCTmbSmcRfVCfRp",
+            "secondCompartment": "wcPdwWQQrdwHwBHrPdwrLLB",
+            "itemsCount": 46,
+            "itemsCountHalf": 23,
+            "hadError": true,
+            "itemWithError": "c",
+            "priorityItemError": 3
+        },
+        {
+            "rucksackItems": "sVTmDfmCTVmJjgSzzntDtt",
+            "firstCompartment": "sVTmDfmCTVm",
+            "secondCompartment": "JjgSzzntDtt",
+            "itemsCount": 22,
+            "itemsCountHalf": 11,
+            "hadError": true,
+            "itemWithError": "D",
+            "priorityItemError": 30
+        },
+        {
+            "rucksackItems": "DQtMjZHZHvMbwwTSpqLtpJ",
+            "firstCompartment": "DQtMjZHZHvM",
+            "secondCompartment": "bwwTSpqLtpJ",
+            "itemsCount": 22,
+            "itemsCountHalf": 11,
+            "hadError": true,
+            "itemWithError": "t",
+            "priorityItemError": 20
+        },
+        {
+            "rucksackItems": "FzVFlsNdVczWPzWcslVfSLqLsqJpSwwsJswLrf",
+            "firstCompartment": "FzVFlsNdVczWPzWcslV",
+            "secondCompartment": "fSLqLsqJpSwwsJswLrf",
+            "itemsCount": 38,
+            "itemsCountHalf": 19,
+            "hadError": true,
+            "itemWithError": "s",
+            "priorityItemError": 19
+        },
+        {
+            "rucksackItems": "dNFFWcmzWFGLWcdcFgvZvvRHQvjMHDMBGD",
+            "firstCompartment": "dNFFWcmzWFGLWcdcF",
+            "secondCompartment": "gvZvvRHQvjMHDMBGD",
+            "itemsCount": 34,
+            "itemsCountHalf": 17,
+            "hadError": true,
+            "itemWithError": "G",
+            "priorityItemError": 33
+        },
+        {
+            "rucksackItems": "MVPTmPvbMgrTmmmmMRMvPvBwFGhhDCdFFwLCLdJhDGFRhG",
+            "firstCompartment": "MVPTmPvbMgrTmmmmMRMvPvB",
+            "secondCompartment": "wFGhhDCdFFwLCLdJhDGFRhG",
+            "itemsCount": 46,
+            "itemsCountHalf": 23,
+            "hadError": true,
+            "itemWithError": "R",
+            "priorityItemError": 44
+        },
+        {
+            "rucksackItems": "fqqWfpZWzWsDwhwdhwqGLD",
+            "firstCompartment": "fqqWfpZWzWs",
+            "secondCompartment": "DwhwdhwqGLD",
+            "itemsCount": 22,
+            "itemsCountHalf": 11,
+            "hadError": true,
+            "itemWithError": "q",
+            "priorityItemError": 17
+        },
+        {
+            "rucksackItems": "ZWSSftStnnplcQLSbVMBvTbrMlbrBvvl",
+            "firstCompartment": "ZWSSftStnnplcQLS",
+            "secondCompartment": "bVMBvTbrMlbrBvvl",
+            "itemsCount": 32,
+            "itemsCountHalf": 16,
+            "hadError": true,
+            "itemWithError": "l",
+            "priorityItemError": 12
+        },
+        {
+            "rucksackItems": "FSsHDmtFLbbFbLGg",
+            "firstCompartment": "FSsHDmtF",
+            "secondCompartment": "LbbFbLGg",
+            "itemsCount": 16,
+            "itemsCountHalf": 8,
+            "hadError": true,
+            "itemWithError": "F",
+            "priorityItemError": 32
+        },
+        {
+            "rucksackItems": "vrvzTzWzzzvppzSzTMnfTggjVgbgjbLjgPPnbGbVGL",
+            "firstCompartment": "vrvzTzWzzzvppzSzTMnfT",
+            "secondCompartment": "ggjVgbgjbLjgPPnbGbVGL",
+            "itemsCount": 42,
+            "itemsCountHalf": 21,
+            "hadError": true,
+            "itemWithError": "n",
+            "priorityItemError": 14
+        },
+        {
+            "rucksackItems": "pdMwrBpfwfSMTTWdMTpBDCBtmsmltslcBDCshDHs",
+            "firstCompartment": "pdMwrBpfwfSMTTWdMTpB",
+            "secondCompartment": "DCBtmsmltslcBDCshDHs",
+            "itemsCount": 40,
+            "itemsCountHalf": 20,
+            "hadError": true,
+            "itemWithError": "B",
+            "priorityItemError": 28
+        },
+        {
+            "rucksackItems": "RgbmfGtmRVgLLSVSnSrWWSHhnh",
+            "firstCompartment": "RgbmfGtmRVgLL",
+            "secondCompartment": "SVSnSrWWSHhnh",
+            "itemsCount": 26,
+            "itemsCountHalf": 13,
+            "hadError": true,
+            "itemWithError": "V",
+            "priorityItemError": 48
+        },
+        {
+            "rucksackItems": "ccTvlvNppsFnbFnhnWnPHJ",
+            "firstCompartment": "ccTvlvNppsF",
+            "secondCompartment": "nbFnhnWnPHJ",
+            "itemsCount": 22,
+            "itemsCountHalf": 11,
+            "hadError": true,
+            "itemWithError": "F",
+            "priorityItemError": 32
+        },
+        {
+            "rucksackItems": "pqNjDBjNNjvpZfmtjbCLbCmb",
+            "firstCompartment": "pqNjDBjNNjvp",
+            "secondCompartment": "ZfmtjbCLbCmb",
+            "itemsCount": 24,
+            "itemsCountHalf": 12,
+            "hadError": true,
+            "itemWithError": "j",
+            "priorityItemError": 10
+        },
+        {
+            "rucksackItems": "qsSVpSVfWqgNrVtWptpmSfqbPQljbHPHlDnljRSlwSnwQn",
+            "firstCompartment": "qsSVpSVfWqgNrVtWptpmSfq",
+            "secondCompartment": "bPQljbHPHlDnljRSlwSnwQn",
+            "itemsCount": 46,
+            "itemsCountHalf": 23,
+            "hadError": true,
+            "itemWithError": "S",
+            "priorityItemError": 45
+        },
+        {
+            "rucksackItems": "dcGBrMFMdLTGGdlwDwMRHwwMbjHP",
+            "firstCompartment": "dcGBrMFMdLTGGd",
+            "secondCompartment": "lwDwMRHwwMbjHP",
+            "itemsCount": 28,
+            "itemsCountHalf": 14,
+            "hadError": true,
+            "itemWithError": "M",
+            "priorityItemError": 39
+        },
+        {
+            "rucksackItems": "CFBvhFhTLFCGvFchChBdBTJtsNpWqfVgtszprmVWNqNgvV",
+            "firstCompartment": "CFBvhFhTLFCGvFchChBdBTJ",
+            "secondCompartment": "tsNpWqfVgtszprmVWNqNgvV",
+            "itemsCount": 46,
+            "itemsCountHalf": 23,
+            "hadError": true,
+            "itemWithError": "v",
+            "priorityItemError": 22
+        },
+        {
+            "rucksackItems": "sjsTgNSNqSjgMmVPmmmrpH",
+            "firstCompartment": "sjsTgNSNqSj",
+            "secondCompartment": "gMmVPmmmrpH",
+            "itemsCount": 22,
+            "itemsCountHalf": 11,
+            "hadError": true,
+            "itemWithError": "g",
+            "priorityItemError": 7
+        },
+        {
+            "rucksackItems": "RftCcWddRCZfPtCfcQZdcZDcrBllBFpVHprHWlHHpHJJmlFp",
+            "firstCompartment": "RftCcWddRCZfPtCfcQZdcZDc",
+            "secondCompartment": "rBllBFpVHprHWlHHpHJJmlFp",
+            "itemsCount": 48,
+            "itemsCountHalf": 24,
+            "hadError": true,
+            "itemWithError": "W",
+            "priorityItemError": 49
+        },
+        {
+            "rucksackItems": "thPZRtLcDRdDCTTsqbnwjhvNjq",
+            "firstCompartment": "thPZRtLcDRdDC",
+            "secondCompartment": "TTsqbnwjhvNjq",
+            "itemsCount": 26,
+            "itemsCountHalf": 13,
+            "hadError": true,
+            "itemWithError": "h",
+            "priorityItemError": 8
+        },
+        {
+            "rucksackItems": "TQPtgfgdPcdSQhjwHhHBLS",
+            "firstCompartment": "TQPtgfgdPcd",
+            "secondCompartment": "SQhjwHhHBLS",
+            "itemsCount": 22,
+            "itemsCountHalf": 11,
+            "hadError": true,
+            "itemWithError": "Q",
+            "priorityItemError": 43
+        },
+        {
+            "rucksackItems": "RrqCqVVbJmVRJmsrzmJpWljlSHLSBwSSRWllWv",
+            "firstCompartment": "RrqCqVVbJmVRJmsrzmJ",
+            "secondCompartment": "pWljlSHLSBwSSRWllWv",
+            "itemsCount": 38,
+            "itemsCountHalf": 19,
+            "hadError": true,
+            "itemWithError": "R",
+            "priorityItemError": 44
+        },
+        {
+            "rucksackItems": "CVrDNbHrJHVMCbrDJsdFdFcPFZngMfFdTPfP",
+            "firstCompartment": "CVrDNbHrJHVMCbrDJs",
+            "secondCompartment": "dFdFcPFZngMfFdTPfP",
+            "itemsCount": 36,
+            "itemsCountHalf": 18,
+            "hadError": true,
+            "itemWithError": "M",
+            "priorityItemError": 39
+        },
+        {
+            "rucksackItems": "NNlZgndqmGVGGVZNWQmWmbhbbhpbbhtCbhtgCpCtMF",
+            "firstCompartment": "NNlZgndqmGVGGVZNWQmWm",
+            "secondCompartment": "bhbbhpbbhtCbhtgCpCtMF",
+            "itemsCount": 42,
+            "itemsCountHalf": 21,
+            "hadError": true,
+            "itemWithError": "g",
+            "priorityItemError": 7
+        },
+        {
+            "rucksackItems": "THfLPTzwJTJrvHRwwsbFbhfbMCpphVtBbB",
+            "firstCompartment": "THfLPTzwJTJrvHRww",
+            "secondCompartment": "sbFbhfbMCpphVtBbB",
+            "itemsCount": 34,
+            "itemsCountHalf": 17,
+            "hadError": true,
+            "itemWithError": "f",
+            "priorityItemError": 6
+        },
+        {
+            "rucksackItems": "RjrvzHLzPDvLzPHrTJVrwPndZQNlDZGndZWDdNNcmlQq",
+            "firstCompartment": "RjrvzHLzPDvLzPHrTJVrwP",
+            "secondCompartment": "ndZQNlDZGndZWDdNNcmlQq",
+            "itemsCount": 44,
+            "itemsCountHalf": 22,
+            "hadError": true,
+            "itemWithError": "D",
+            "priorityItemError": 30
+        },
+        {
+            "rucksackItems": "tjDsjDGtTjVVbQVCggvrbg",
+            "firstCompartment": "tjDsjDGtTjV",
+            "secondCompartment": "VbQVCggvrbg",
+            "itemsCount": 22,
+            "itemsCountHalf": 11,
+            "hadError": true,
+            "itemWithError": "V",
+            "priorityItemError": 48
+        },
+        {
+            "rucksackItems": "qrWWRBllRFrdlSMCdbSJCP",
+            "firstCompartment": "qrWWRBllRFr",
+            "secondCompartment": "dlSMCdbSJCP",
+            "itemsCount": 22,
+            "itemsCountHalf": 11,
+            "hadError": true,
+            "itemWithError": "l",
+            "priorityItemError": 12
+        },
+        {
+            "rucksackItems": "cZcncRnhphpZWRNtrmsrGpHffmwH",
+            "firstCompartment": "cZcncRnhphpZWR",
+            "secondCompartment": "NtrmsrGpHffmwH",
+            "itemsCount": 28,
+            "itemsCountHalf": 14,
+            "hadError": true,
+            "itemWithError": "p",
+            "priorityItemError": 16
+        },
+        {
+            "rucksackItems": "qpRjdcqTcMbbMRTwtnplnwnhPzhBhw",
+            "firstCompartment": "qpRjdcqTcMbbMRT",
+            "secondCompartment": "wtnplnwnhPzhBhw",
+            "itemsCount": 30,
+            "itemsCountHalf": 15,
+            "hadError": true,
+            "itemWithError": "p",
+            "priorityItemError": 16
+        },
+        {
+            "rucksackItems": "FSFLvNrsPNrsGSLsrFSGfnwBQwZnZwhQQLwwQhnn",
+            "firstCompartment": "FSFLvNrsPNrsGSLsrFSG",
+            "secondCompartment": "fnwBQwZnZwhQQLwwQhnn",
+            "itemsCount": 40,
+            "itemsCountHalf": 20,
+            "hadError": true,
+            "itemWithError": "L",
+            "priorityItemError": 38
+        },
+        {
+            "rucksackItems": "sWNVmVmCFNWGsCrrjRTmMjRjPRqgJqJg",
+            "firstCompartment": "sWNVmVmCFNWGsCrr",
+            "secondCompartment": "jRTmMjRjPRqgJqJg",
+            "itemsCount": 32,
+            "itemsCountHalf": 16,
+            "hadError": true,
+            "itemWithError": "m",
+            "priorityItemError": 13
+        },
+        {
+            "rucksackItems": "sVCnzVpmFpVSnNFCmnmzwRFDWDdMllDccMdwDMjWjWlWjg",
+            "firstCompartment": "sVCnzVpmFpVSnNFCmnmzwRF",
+            "secondCompartment": "DWDdMllDccMdwDMjWjWlWjg",
+            "itemsCount": 46,
+            "itemsCountHalf": 23,
+            "hadError": true,
+            "itemWithError": "w",
+            "priorityItemError": 23
+        },
+        {
+            "rucksackItems": "BJbPJGGGHPZqZQbpMlWWMWlBljjjgDjh",
+            "firstCompartment": "BJbPJGGGHPZqZQbp",
+            "secondCompartment": "MlWWMWlBljjjgDjh",
+            "itemsCount": 32,
+            "itemsCountHalf": 16,
+            "hadError": true,
+            "itemWithError": "B",
+            "priorityItemError": 28
+        },
+        {
+            "rucksackItems": "tGQPpZtfTPpqrHsVLSzmRNLtSFsN",
+            "firstCompartment": "tGQPpZtfTPpqrH",
+            "secondCompartment": "sVLSzmRNLtSFsN",
+            "itemsCount": 28,
+            "itemsCountHalf": 14,
+            "hadError": true,
+            "itemWithError": "t",
+            "priorityItemError": 20
+        },
+        {
+            "rucksackItems": "WCDlBWWlvMFWlQWpmSZdZnNmGfJZFZ",
+            "firstCompartment": "WCDlBWWlvMFWlQW",
+            "secondCompartment": "pmSZdZnNmGfJZFZ",
+            "itemsCount": 30,
+            "itemsCountHalf": 15,
+            "hadError": true,
+            "itemWithError": "F",
+            "priorityItemError": 32
+        },
+        {
+            "rucksackItems": "LqjTjgtjPcHTTJgLThztcLTLnHnmdSpZdpdffnmZSppfGpSn",
+            "firstCompartment": "LqjTjgtjPcHTTJgLThztcLTL",
+            "secondCompartment": "nHnmdSpZdpdffnmZSppfGpSn",
+            "itemsCount": 48,
+            "itemsCountHalf": 24,
+            "hadError": true,
+            "itemWithError": "H",
+            "priorityItemError": 34
+        },
+        {
+            "rucksackItems": "PtzqzjtqJgggzhqqccqhrQMsMvMwrCwMlBvMwvvsvs",
+            "firstCompartment": "PtzqzjtqJgggzhqqccqhr",
+            "secondCompartment": "QMsMvMwrCwMlBvMwvvsvs",
+            "itemsCount": 42,
+            "itemsCountHalf": 21,
+            "hadError": true,
+            "itemWithError": "r",
+            "priorityItemError": 18
+        },
+        {
+            "rucksackItems": "NMsJfsHTMVbjnLnVsC",
+            "firstCompartment": "NMsJfsHTM",
+            "secondCompartment": "VbjnLnVsC",
+            "itemsCount": 18,
+            "itemsCountHalf": 9,
+            "hadError": true,
+            "itemWithError": "s",
+            "priorityItemError": 19
+        },
+        {
+            "rucksackItems": "htWllhmZcWDWBwhZPcmpVRjnVMRLCCjLFpCwRb",
+            "firstCompartment": "htWllhmZcWDWBwhZPcm",
+            "secondCompartment": "pVRjnVMRLCCjLFpCwRb",
+            "itemsCount": 38,
+            "itemsCountHalf": 19,
+            "hadError": true,
+            "itemWithError": "w",
+            "priorityItemError": 23
+        },
+        {
+            "rucksackItems": "PmZMrBtcPmZWhzDWBtMmJQdddHfQGNSqHqQGGTgr",
+            "firstCompartment": "PmZMrBtcPmZWhzDWBtMm",
+            "secondCompartment": "JQdddHfQGNSqHqQGGTgr",
+            "itemsCount": 40,
+            "itemsCountHalf": 20,
+            "hadError": true,
+            "itemWithError": "r",
+            "priorityItemError": 18
+        },
+        {
+            "rucksackItems": "NmfnnsPlHnGqnlsNNmRPltRLvrhvrSGJSJjvFFFSSFJLhb",
+            "firstCompartment": "NmfnnsPlHnGqnlsNNmRPltR",
+            "secondCompartment": "LvrhvrSGJSJjvFFFSSFJLhb",
+            "itemsCount": 46,
+            "itemsCountHalf": 23,
+            "hadError": true,
+            "itemWithError": "G",
+            "priorityItemError": 33
+        },
+        {
+            "rucksackItems": "PzQZccVPVwgPjrJSJjhFFpQr",
+            "firstCompartment": "PzQZccVPVwgP",
+            "secondCompartment": "jrJSJjhFFpQr",
+            "itemsCount": 24,
+            "itemsCountHalf": 12,
+            "hadError": true,
+            "itemWithError": "Q",
+            "priorityItemError": 43
+        },
+        {
+            "rucksackItems": "TdwBgdTVwzdwzlmNfRqPmqqTql",
+            "firstCompartment": "TdwBgdTVwzdwz",
+            "secondCompartment": "lmNfRqPmqqTql",
+            "itemsCount": 26,
+            "itemsCountHalf": 13,
+            "hadError": true,
+            "itemWithError": "T",
+            "priorityItemError": 46
+        },
+        {
+            "rucksackItems": "BVLLBPmPmWBlMlLJnJlBlFQVgdRDdRZRZHpZjQzdRdZQdzQZ",
+            "firstCompartment": "BVLLBPmPmWBlMlLJnJlBlFQV",
+            "secondCompartment": "gdRDdRZRZHpZjQzdRdZQdzQZ",
+            "itemsCount": 48,
+            "itemsCountHalf": 24,
+            "hadError": true,
+            "itemWithError": "Q",
+            "priorityItemError": 43
+        },
+        {
+            "rucksackItems": "trGTsfbTTgHZptzSZW",
+            "firstCompartment": "trGTsfbTT",
+            "secondCompartment": "gHZptzSZW",
+            "itemsCount": 18,
+            "itemsCountHalf": 9,
+            "hadError": true,
+            "itemWithError": "t",
+            "priorityItemError": 20
+        },
+        {
+            "rucksackItems": "fsfTNcCqqNhhVhVFVhVBWLLB",
+            "firstCompartment": "fsfTNcCqqNhh",
+            "secondCompartment": "VhVFVhVBWLLB",
+            "itemsCount": 24,
+            "itemsCountHalf": 12,
+            "hadError": true,
+            "itemWithError": "h",
+            "priorityItemError": 8
+        },
+        {
+            "rucksackItems": "LJwgJNfbCvwCJCwBCCNhhHmGHWWSMWmWmbMmTmmGdS",
+            "firstCompartment": "LJwgJNfbCvwCJCwBCCNhh",
+            "secondCompartment": "HmGHWWSMWmWmbMmTmmGdS",
+            "itemsCount": 42,
+            "itemsCountHalf": 21,
+            "hadError": true,
+            "itemWithError": "b",
+            "priorityItemError": 2
+        },
+        {
+            "rucksackItems": "lzRnnltsstZzzRTfHtHWHGWftfHW",
+            "firstCompartment": "lzRnnltsstZzzR",
+            "secondCompartment": "TfHtHWHGWftfHW",
+            "itemsCount": 28,
+            "itemsCountHalf": 14,
+            "hadError": true,
+            "itemWithError": "t",
+            "priorityItemError": 20
+        },
+        {
+            "rucksackItems": "ZFFzVFqzqlFcZscZpRZsNphjhjvjfgJhQgQvwvhC",
+            "firstCompartment": "ZFFzVFqzqlFcZscZpRZs",
+            "secondCompartment": "NphjhjvjfgJhQgQvwvhC",
+            "itemsCount": 40,
+            "itemsCountHalf": 20,
+            "hadError": true,
+            "itemWithError": "p",
+            "priorityItemError": 16
+        },
+        {
+            "rucksackItems": "HHzcFNcHFjhjZjlrghLL",
+            "firstCompartment": "HHzcFNcHFj",
+            "secondCompartment": "hjZjlrghLL",
+            "itemsCount": 20,
+            "itemsCountHalf": 10,
+            "hadError": true,
+            "itemWithError": "j",
+            "priorityItemError": 10
+        },
+        {
+            "rucksackItems": "pMZJptpZWCmpttRMCWnnDnBGGDLhlLQrhl",
+            "firstCompartment": "pMZJptpZWCmpttRMC",
+            "secondCompartment": "WnnDnBGGDLhlLQrhl",
+            "itemsCount": 34,
+            "itemsCountHalf": 17,
+            "hadError": true,
+            "itemWithError": "W",
+            "priorityItemError": 49
+        },
+        {
+            "rucksackItems": "MJsMCTZTTpTJRmMCJzfNsNcfNHqzvvfcww",
+            "firstCompartment": "MJsMCTZTTpTJRmMCJ",
+            "secondCompartment": "zfNsNcfNHqzvvfcww",
+            "itemsCount": 34,
+            "itemsCountHalf": 17,
+            "hadError": true,
+            "itemWithError": "s",
+            "priorityItemError": 19
+        },
+        {
+            "rucksackItems": "ZDtllsDlVsrQBqQqRfWl",
+            "firstCompartment": "ZDtllsDlVs",
+            "secondCompartment": "rQBqQqRfWl",
+            "itemsCount": 20,
+            "itemsCountHalf": 10,
+            "hadError": true,
+            "itemWithError": "l",
+            "priorityItemError": 12
+        },
+        {
+            "rucksackItems": "wvJgpPhhscgvpJFNrRjRrWRjqrRjdjRv",
+            "firstCompartment": "wvJgpPhhscgvpJFN",
+            "secondCompartment": "rRjRrWRjqrRjdjRv",
+            "itemsCount": 32,
+            "itemsCountHalf": 16,
+            "hadError": true,
+            "itemWithError": "v",
+            "priorityItemError": 22
+        },
+        {
+            "rucksackItems": "zpsNzCsNCJCCPPHSLzznMnDSLGLM",
+            "firstCompartment": "zpsNzCsNCJCCPP",
+            "secondCompartment": "HSLzznMnDSLGLM",
+            "itemsCount": 28,
+            "itemsCountHalf": 14,
+            "hadError": true,
+            "itemWithError": "z",
+            "priorityItemError": 26
+        },
+        {
+            "rucksackItems": "rfrJjFWrwjpnJjjjfrjJJnFVTgTggRWRRRPPLQgCgQcPPT",
+            "firstCompartment": "rfrJjFWrwjpnJjjjfrjJJnF",
+            "secondCompartment": "VTgTggRWRRRPPLQgCgQcPPT",
+            "itemsCount": 46,
+            "itemsCountHalf": 23,
+            "hadError": true,
+            "itemWithError": "W",
+            "priorityItemError": 49
+        },
+        {
+            "rucksackItems": "sSNbSvqmsSZDZZBtNTTPGgMLMRVcgPCMRb",
+            "firstCompartment": "sSNbSvqmsSZDZZBtN",
+            "secondCompartment": "TTPGgMLMRVcgPCMRb",
+            "itemsCount": 34,
+            "itemsCountHalf": 17,
+            "hadError": true,
+            "itemWithError": "b",
+            "priorityItemError": 2
+        },
+        {
+            "rucksackItems": "zZDZzNNSmrfpjFCjzj",
+            "firstCompartment": "zZDZzNNSm",
+            "secondCompartment": "rfpjFCjzj",
+            "itemsCount": 18,
+            "itemsCountHalf": 9,
+            "hadError": true,
+            "itemWithError": "z",
+            "priorityItemError": 26
+        },
+        {
+            "rucksackItems": "dbbNJPBbbrFqNqttqrGbqDcmDQRmFmwcwSnQSDcpwS",
+            "firstCompartment": "dbbNJPBbbrFqNqttqrGbq",
+            "secondCompartment": "DcmDQRmFmwcwSnQSDcpwS",
+            "itemsCount": 42,
+            "itemsCountHalf": 21,
+            "hadError": true,
+            "itemWithError": "F",
+            "priorityItemError": 32
+        },
+        {
+            "rucksackItems": "ZMMTsHjzLlLcnSVwpRRQ",
+            "firstCompartment": "ZMMTsHjzLl",
+            "secondCompartment": "LcnSVwpRRQ",
+            "itemsCount": 20,
+            "itemsCountHalf": 10,
+            "hadError": true,
+            "itemWithError": "L",
+            "priorityItemError": 38
+        },
+        {
+            "rucksackItems": "hZTWjWvTZzTTWhszfwbJhrgJqtBbJGdqNPqt",
+            "firstCompartment": "hZTWjWvTZzTTWhszfw",
+            "secondCompartment": "bJhrgJqtBbJGdqNPqt",
+            "itemsCount": 36,
+            "itemsCountHalf": 18,
+            "hadError": true,
+            "itemWithError": "h",
+            "priorityItemError": 8
+        },
+        {
+            "rucksackItems": "rrqgHrgtcHJRRjWZlRvnnWBn",
+            "firstCompartment": "rrqgHrgtcHJR",
+            "secondCompartment": "RjWZlRvnnWBn",
+            "itemsCount": 24,
+            "itemsCountHalf": 12,
+            "hadError": true,
+            "itemWithError": "R",
+            "priorityItemError": 44
+        },
+        {
+            "rucksackItems": "QbhVmdFppwbdjnMvlnBwMWZP",
+            "firstCompartment": "QbhVmdFppwbd",
+            "secondCompartment": "jnMvlnBwMWZP",
+            "itemsCount": 24,
+            "itemsCountHalf": 12,
+            "hadError": true,
+            "itemWithError": "w",
+            "priorityItemError": 23
+        },
+        {
+            "rucksackItems": "TpFDdVTFTDfhHfJcSJSzGZGf",
+            "firstCompartment": "TpFDdVTFTDfh",
+            "secondCompartment": "HfJcSJSzGZGf",
+            "itemsCount": 24,
+            "itemsCountHalf": 12,
+            "hadError": true,
+            "itemWithError": "f",
+            "priorityItemError": 6
+        },
+        {
+            "rucksackItems": "sqNTNZHsHjjFBBwJMMNMcCJD",
+            "firstCompartment": "sqNTNZHsHjjF",
+            "secondCompartment": "BBwJMMNMcCJD",
+            "itemsCount": 24,
+            "itemsCountHalf": 12,
+            "hadError": true,
+            "itemWithError": "N",
+            "priorityItemError": 40
+        },
+        {
+            "rucksackItems": "WGLQPjfWfQWPWmtLSRRRLwBJDbtCCJJCbbwCMBbMBc",
+            "firstCompartment": "WGLQPjfWfQWPWmtLSRRRL",
+            "secondCompartment": "wBJDbtCCJJCbbwCMBbMBc",
+            "itemsCount": 42,
+            "itemsCountHalf": 21,
+            "hadError": true,
+            "itemWithError": "t",
+            "priorityItemError": 20
+        },
+        {
+            "rucksackItems": "RnPdLQfPLRdndGGRvfjlgdrTTgTsrgTrZFzF",
+            "firstCompartment": "RnPdLQfPLRdndGGRvf",
+            "secondCompartment": "jlgdrTTgTsrgTrZFzF",
+            "itemsCount": 36,
+            "itemsCountHalf": 18,
+            "hadError": true,
+            "itemWithError": "d",
+            "priorityItemError": 4
+        },
+        {
+            "rucksackItems": "BfHbjVVqSBFfMSlCLCDrGSQssvlr",
+            "firstCompartment": "BfHbjVVqSBFfMS",
+            "secondCompartment": "lCLCDrGSQssvlr",
+            "itemsCount": 28,
+            "itemsCountHalf": 14,
+            "hadError": true,
+            "itemWithError": "S",
+            "priorityItemError": 45
+        },
+        {
+            "rucksackItems": "tTpnnzpcPnwzhcnJTDtTPRprGlRGGGCWlQsWvrlvrQGQrC",
+            "firstCompartment": "tTpnnzpcPnwzhcnJTDtTPRp",
+            "secondCompartment": "rGlRGGGCWlQsWvrlvrQGQrC",
+            "itemsCount": 46,
+            "itemsCountHalf": 23,
+            "hadError": true,
+            "itemWithError": "R",
+            "priorityItemError": 44
+        },
+        {
+            "rucksackItems": "DPwhghDTpPVHqqdgZbZq",
+            "firstCompartment": "DPwhghDTpP",
+            "secondCompartment": "VHqqdgZbZq",
+            "itemsCount": 20,
+            "itemsCountHalf": 10,
+            "hadError": true,
+            "itemWithError": "g",
+            "priorityItemError": 7
+        },
+        {
+            "rucksackItems": "ZzPqfGPtRtqfqPbqfGgGZbrhMjmjBCpHpHNCmHtHjmBHnj",
+            "firstCompartment": "ZzPqfGPtRtqfqPbqfGgGZbr",
+            "secondCompartment": "hMjmjBCpHpHNCmHtHjmBHnj",
+            "itemsCount": 46,
+            "itemsCountHalf": 23,
+            "hadError": true,
+            "itemWithError": "t",
+            "priorityItemError": 20
+        },
+        {
+            "rucksackItems": "QJwllvFWwDvnwCBBzjwwpC",
+            "firstCompartment": "QJwllvFWwDv",
+            "secondCompartment": "nwCBBzjwwpC",
+            "itemsCount": 22,
+            "itemsCountHalf": 11,
+            "hadError": true,
+            "itemWithError": "w",
+            "priorityItemError": 23
+        },
+        {
+            "rucksackItems": "ccJLVQzWFJvVJlVbgrZZLZLRRPSgdr",
+            "firstCompartment": "ccJLVQzWFJvVJlV",
+            "secondCompartment": "bgrZZLZLRRPSgdr",
+            "itemsCount": 30,
+            "itemsCountHalf": 15,
+            "hadError": true,
+            "itemWithError": "L",
+            "priorityItemError": 38
+        },
+        {
+            "rucksackItems": "rBGbLbnTfnZrQbTnHldqsMmHsqlsWfMd",
+            "firstCompartment": "rBGbLbnTfnZrQbTn",
+            "secondCompartment": "HldqsMmHsqlsWfMd",
+            "itemsCount": 32,
+            "itemsCountHalf": 16,
+            "hadError": true,
+            "itemWithError": "f",
+            "priorityItemError": 6
+        },
+        {
+            "rucksackItems": "JcJjCCPzPtjCNHdlGGMlll",
+            "firstCompartment": "JcJjCCPzPtj",
+            "secondCompartment": "CNHdlGGMlll",
+            "itemsCount": 22,
+            "itemsCountHalf": 11,
+            "hadError": true,
+            "itemWithError": "C",
+            "priorityItemError": 29
+        },
+        {
+            "rucksackItems": "jjgpRRvcGbwpThVppT",
+            "firstCompartment": "jjgpRRvcG",
+            "secondCompartment": "bwpThVppT",
+            "itemsCount": 18,
+            "itemsCountHalf": 9,
+            "hadError": true,
+            "itemWithError": "p",
+            "priorityItemError": 16
+        },
+        {
+            "rucksackItems": "ttDfjtqfjtpTWWwfTbtlWccNGRSZNGPGhZGhGhcwRh",
+            "firstCompartment": "ttDfjtqfjtpTWWwfTbtlW",
+            "secondCompartment": "ccNGRSZNGPGhZGhGhcwRh",
+            "itemsCount": 42,
+            "itemsCountHalf": 21,
+            "hadError": true,
+            "itemWithError": "w",
+            "priorityItemError": 23
+        },
+        {
+            "rucksackItems": "LbCrHdvzLSSHmSRNmc",
+            "firstCompartment": "LbCrHdvzL",
+            "secondCompartment": "SSHmSRNmc",
+            "itemsCount": 18,
+            "itemsCountHalf": 9,
+            "hadError": true,
+            "itemWithError": "H",
+            "priorityItemError": 34
+        },
+        {
+            "rucksackItems": "JCsBvrvBLzFQbbvlVVnpQpDtWlDqfq",
+            "firstCompartment": "JCsBvrvBLzFQbbv",
+            "secondCompartment": "lVVnpQpDtWlDqfq",
+            "itemsCount": 30,
+            "itemsCountHalf": 15,
+            "hadError": true,
+            "itemWithError": "Q",
+            "priorityItemError": 43
+        },
+        {
+            "rucksackItems": "vvdvJBfvdTvRBflBJPNmmffmgPCMwDgsss",
+            "firstCompartment": "vvdvJBfvdTvRBflBJ",
+            "secondCompartment": "PNmmffmgPCMwDgsss",
+            "itemsCount": 34,
+            "itemsCountHalf": 17,
+            "hadError": true,
+            "itemWithError": "f",
+            "priorityItemError": 6
+        },
+        {
+            "rucksackItems": "rFjqLnMcnqrrtMLtjNgCPCsNzzgsPCGFNs",
+            "firstCompartment": "rFjqLnMcnqrrtMLtj",
+            "secondCompartment": "NgCPCsNzzgsPCGFNs",
+            "itemsCount": 34,
+            "itemsCountHalf": 17,
+            "hadError": true,
+            "itemWithError": "F",
+            "priorityItemError": 32
+        },
+        {
+            "rucksackItems": "VqLqnLVZqjMZqWnrVtWlZJJSvHvBdRSvBdRvvJ",
+            "firstCompartment": "VqLqnLVZqjMZqWnrVtW",
+            "secondCompartment": "lZJJSvHvBdRSvBdRvvJ",
+            "itemsCount": 38,
+            "itemsCountHalf": 19,
+            "hadError": true,
+            "itemWithError": "Z",
+            "priorityItemError": 52
+        },
+        {
+            "rucksackItems": "zZBDzgQQZLlcglzjrCrCMFjGZbMsHm",
+            "firstCompartment": "zZBDzgQQZLlcglz",
+            "secondCompartment": "jrCrCMFjGZbMsHm",
+            "itemsCount": 30,
+            "itemsCountHalf": 15,
+            "hadError": true,
+            "itemWithError": "Z",
+            "priorityItemError": 52
+        },
+        {
+            "rucksackItems": "PnnJVRfttTtwVnnVFGHVsjCFCjrsMM",
+            "firstCompartment": "PnnJVRfttTtwVnn",
+            "secondCompartment": "VFGHVsjCFCjrsMM",
+            "itemsCount": 30,
+            "itemsCountHalf": 15,
+            "hadError": true,
+            "itemWithError": "V",
+            "priorityItemError": 48
+        },
+        {
+            "rucksackItems": "wPRpRpRnNTpPNlBdQQDdgDNMhN",
+            "firstCompartment": "wPRpRpRnNTpPN",
+            "secondCompartment": "lBdQQDdgDNMhN",
+            "itemsCount": 26,
+            "itemsCountHalf": 13,
+            "hadError": true,
+            "itemWithError": "N",
+            "priorityItemError": 40
+        },
+        {
+            "rucksackItems": "bNQpFpnwgtDHpbnhWtffmfmhvhhfsZ",
+            "firstCompartment": "bNQpFpnwgtDHpbn",
+            "secondCompartment": "hWtffmfmhvhhfsZ",
+            "itemsCount": 30,
+            "itemsCountHalf": 15,
+            "hadError": true,
+            "itemWithError": "t",
+            "priorityItemError": 20
+        },
+        {
+            "rucksackItems": "LcdLdwCLPPSVSqqwZGhWdJhGJZhlGlsm",
+            "firstCompartment": "LcdLdwCLPPSVSqqw",
+            "secondCompartment": "ZGhWdJhGJZhlGlsm",
+            "itemsCount": 32,
+            "itemsCountHalf": 16,
+            "hadError": true,
+            "itemWithError": "d",
+            "priorityItemError": 4
+        },
+        {
+            "rucksackItems": "TBwSLPSPVRSVqSVqVrcnpMDDngMgnQpbRQFDNH",
+            "firstCompartment": "TBwSLPSPVRSVqSVqVrc",
+            "secondCompartment": "npMDDngMgnQpbRQFDNH",
+            "itemsCount": 38,
+            "itemsCountHalf": 19,
+            "hadError": true,
+            "itemWithError": "R",
+            "priorityItemError": 44
+        },
+        {
+            "rucksackItems": "vPSvBJZSSdJgpJJZBDGDGrdqGdllGrGDrh",
+            "firstCompartment": "vPSvBJZSSdJgpJJZB",
+            "secondCompartment": "DGDGrdqGdllGrGDrh",
+            "itemsCount": 34,
+            "itemsCountHalf": 17,
+            "hadError": true,
+            "itemWithError": "d",
+            "priorityItemError": 4
+        },
+        {
+            "rucksackItems": "HMtsltFlRVVFtlscRjjMcsWwWChWmrnwDWGwChmjGCWq",
+            "firstCompartment": "HMtsltFlRVVFtlscRjjMcs",
+            "secondCompartment": "WwWChWmrnwDWGwChmjGCWq",
+            "itemsCount": 44,
+            "itemsCountHalf": 22,
+            "hadError": true,
+            "itemWithError": "j",
+            "priorityItemError": 10
+        },
+        {
+            "rucksackItems": "MQHNlTVHNVHpbbpbTvvBvf",
+            "firstCompartment": "MQHNlTVHNVH",
+            "secondCompartment": "pbbpbTvvBvf",
+            "itemsCount": 22,
+            "itemsCountHalf": 11,
+            "hadError": true,
+            "itemWithError": "T",
+            "priorityItemError": 46
+        },
+        {
+            "rucksackItems": "VsbPMwhbWhzdpzNNggnBcTBWNngQ",
+            "firstCompartment": "VsbPMwhbWhzdpz",
+            "secondCompartment": "NNggnBcTBWNngQ",
+            "itemsCount": 28,
+            "itemsCountHalf": 14,
+            "hadError": true,
+            "itemWithError": "W",
+            "priorityItemError": 49
+        },
+        {
+            "rucksackItems": "RmtZZFZqSjqVHmGQNcBHNLGLGHQH",
+            "firstCompartment": "RmtZZFZqSjqVHm",
+            "secondCompartment": "GQNcBHNLGLGHQH",
+            "itemsCount": 28,
+            "itemsCountHalf": 14,
+            "hadError": true,
+            "itemWithError": "H",
+            "priorityItemError": 34
+        },
+        {
+            "rucksackItems": "JjRClqCjZlDZmqSqljFZZqRCvsvPfshhMdwsDwbVwzMzhffb",
+            "firstCompartment": "JjRClqCjZlDZmqSqljFZZqRC",
+            "secondCompartment": "vsvPfshhMdwsDwbVwzMzhffb",
+            "itemsCount": 48,
+            "itemsCountHalf": 24,
+            "hadError": true,
+            "itemWithError": "D",
+            "priorityItemError": 30
+        },
+        {
+            "rucksackItems": "bfGtRgfDtVmsMzTbmz",
+            "firstCompartment": "bfGtRgfDt",
+            "secondCompartment": "VmsMzTbmz",
+            "itemsCount": 18,
+            "itemsCountHalf": 9,
+            "hadError": true,
+            "itemWithError": "b",
+            "priorityItemError": 2
+        },
+        {
+            "rucksackItems": "LjGZwQLLdjFdHLNMhmzBzMNHNmzN",
+            "firstCompartment": "LjGZwQLLdjFdHL",
+            "secondCompartment": "NMhmzBzMNHNmzN",
+            "itemsCount": 28,
+            "itemsCountHalf": 14,
+            "hadError": true,
+            "itemWithError": "H",
+            "priorityItemError": 34
+        },
+        {
+            "rucksackItems": "wjQLCFvnnQGdZLGWSjdqWDfPlrRpqRDDRqrpPr",
+            "firstCompartment": "wjQLCFvnnQGdZLGWSjd",
+            "secondCompartment": "qWDfPlrRpqRDDRqrpPr",
+            "itemsCount": 38,
+            "itemsCountHalf": 19,
+            "hadError": true,
+            "itemWithError": "W",
+            "priorityItemError": 49
+        },
+        {
+            "rucksackItems": "pqnBZqjCNCqQqmllpHGMGdTfML",
+            "firstCompartment": "pqnBZqjCNCqQq",
+            "secondCompartment": "mllpHGMGdTfML",
+            "itemsCount": 26,
+            "itemsCountHalf": 13,
+            "hadError": true,
+            "itemWithError": "p",
+            "priorityItemError": 16
+        },
+        {
+            "rucksackItems": "PsFgrRvSPsWTwWWQwGHLHW",
+            "firstCompartment": "PsFgrRvSPsW",
+            "secondCompartment": "TwWWQwGHLHW",
+            "itemsCount": 22,
+            "itemsCountHalf": 11,
+            "hadError": true,
+            "itemWithError": "W",
+            "priorityItemError": 49
+        },
+        {
+            "rucksackItems": "SrvgsFbrrPJJFsrFPtFSCChBDQjqCqtNhDqhCqNC",
+            "firstCompartment": "SrvgsFbrrPJJFsrFPtFS",
+            "secondCompartment": "CChBDQjqCqtNhDqhCqNC",
+            "itemsCount": 40,
+            "itemsCountHalf": 20,
+            "hadError": true,
+            "itemWithError": "t",
+            "priorityItemError": 20
+        },
+        {
+            "rucksackItems": "RJZRWZWMWZPZffRCPWMdRdfQQQjJzHQsssjrSQFVschVHr",
+            "firstCompartment": "RJZRWZWMWZPZffRCPWMdRdf",
+            "secondCompartment": "QQQjJzHQsssjrSQFVschVHr",
+            "itemsCount": 46,
+            "itemsCountHalf": 23,
+            "hadError": true,
+            "itemWithError": "J",
+            "priorityItemError": 36
+        },
+        {
+            "rucksackItems": "NgpnDgvGTNTVFHFFjVFF",
+            "firstCompartment": "NgpnDgvGTN",
+            "secondCompartment": "TVFHFFjVFF",
+            "itemsCount": 20,
+            "itemsCountHalf": 10,
+            "hadError": true,
+            "itemWithError": "T",
+            "priorityItemError": 46
+        },
+        {
+            "rucksackItems": "jntvgljpGvlnbLtLbBvnLRPlCCwwCfRqMCCqqqddqw",
+            "firstCompartment": "jntvgljpGvlnbLtLbBvnL",
+            "secondCompartment": "RPlCCwwCfRqMCCqqqddqw",
+            "itemsCount": 42,
+            "itemsCountHalf": 21,
+            "hadError": true,
+            "itemWithError": "l",
+            "priorityItemError": 12
+        },
+        {
+            "rucksackItems": "PFBMVDSVPHMTThtMtSBMMVNbQprHbNRgNRRgLnvpnjnN",
+            "firstCompartment": "PFBMVDSVPHMTThtMtSBMMV",
+            "secondCompartment": "NbQprHbNRgNRRgLnvpnjnN",
+            "itemsCount": 44,
+            "itemsCountHalf": 22,
+            "hadError": true,
+            "itemWithError": "H",
+            "priorityItemError": 34
+        },
+        {
+            "rucksackItems": "scGcrcwlswdGlcqvbQgnnpQnqLjnpp",
+            "firstCompartment": "scGcrcwlswdGlcq",
+            "secondCompartment": "vbQgnnpQnqLjnpp",
+            "itemsCount": 30,
+            "itemsCountHalf": 15,
+            "hadError": true,
+            "itemWithError": "q",
+            "priorityItemError": 17
+        },
+        {
+            "rucksackItems": "ffwswWzcmlcWWsmcZhrDFrZMFZBMFzhM",
+            "firstCompartment": "ffwswWzcmlcWWsmc",
+            "secondCompartment": "ZhrDFrZMFZBMFzhM",
+            "itemsCount": 32,
+            "itemsCountHalf": 16,
+            "hadError": true,
+            "itemWithError": "z",
+            "priorityItemError": 26
+        },
+        {
+            "rucksackItems": "LMdZGqdRSSZmCZMRfQjnggvlvggRcznz",
+            "firstCompartment": "LMdZGqdRSSZmCZMR",
+            "secondCompartment": "fQjnggvlvggRcznz",
+            "itemsCount": 32,
+            "itemsCountHalf": 16,
+            "hadError": true,
+            "itemWithError": "R",
+            "priorityItemError": 44
+        },
+        {
+            "rucksackItems": "tjjFhBrtpthpslcvvlcQzFnFvQ",
+            "firstCompartment": "tjjFhBrtpthps",
+            "secondCompartment": "lcvvlcQzFnFvQ",
+            "itemsCount": 26,
+            "itemsCountHalf": 13,
+            "hadError": true,
+            "itemWithError": "F",
+            "priorityItemError": 32
+        },
+        {
+            "rucksackItems": "jrhbjtpJtbZqCLdWLq",
+            "firstCompartment": "jrhbjtpJt",
+            "secondCompartment": "bZqCLdWLq",
+            "itemsCount": 18,
+            "itemsCountHalf": 9,
+            "hadError": true,
+            "itemWithError": "b",
+            "priorityItemError": 2
+        },
+        {
+            "rucksackItems": "HBGBfBttZzbGbljPdpFddFqRmqRzRN",
+            "firstCompartment": "HBGBfBttZzbGblj",
+            "secondCompartment": "PdpFddFqRmqRzRN",
+            "itemsCount": 30,
+            "itemsCountHalf": 15,
+            "hadError": true,
+            "itemWithError": "z",
+            "priorityItemError": 26
+        },
+        {
+            "rucksackItems": "JDWghDDSDqmmDDpc",
+            "firstCompartment": "JDWghDDS",
+            "secondCompartment": "DqmmDDpc",
+            "itemsCount": 16,
+            "itemsCountHalf": 8,
+            "hadError": true,
+            "itemWithError": "D",
+            "priorityItemError": 30
+        },
+        {
+            "rucksackItems": "CLvgMvChCvLphCTSShhMhQsBbfTfsGsrBfjfrljrZZff",
+            "firstCompartment": "CLvgMvChCvLphCTSShhMhQ",
+            "secondCompartment": "sBbfTfsGsrBfjfrljrZZff",
+            "itemsCount": 44,
+            "itemsCountHalf": 22,
+            "hadError": true,
+            "itemWithError": "T",
+            "priorityItemError": 46
+        },
+        {
+            "rucksackItems": "RgHgDqDzqQqgcdHqcZGTNlGffGBDGZBTGZ",
+            "firstCompartment": "RgHgDqDzqQqgcdHqc",
+            "secondCompartment": "ZGTNlGffGBDGZBTGZ",
+            "itemsCount": 34,
+            "itemsCountHalf": 17,
+            "hadError": true,
+            "itemWithError": "D",
+            "priorityItemError": 30
+        },
+        {
+            "rucksackItems": "LFLPWsmvrbwhwwswrTlTTCBNGFfGlNJZNS",
+            "firstCompartment": "LFLPWsmvrbwhwwswr",
+            "secondCompartment": "TlTTCBNGFfGlNJZNS",
+            "itemsCount": 34,
+            "itemsCountHalf": 17,
+            "hadError": true,
+            "itemWithError": "F",
+            "priorityItemError": 32
+        },
+        {
+            "rucksackItems": "vhrLnvhNmWvMsrvwqMdRcptQtztcjptz",
+            "firstCompartment": "vhrLnvhNmWvMsrvw",
+            "secondCompartment": "qMdRcptQtztcjptz",
+            "itemsCount": 32,
+            "itemsCountHalf": 16,
+            "hadError": true,
+            "itemWithError": "M",
+            "priorityItemError": 39
+        },
+        {
+            "rucksackItems": "sLMLsThhjgqLlsnsLgTLtMFcRbcPcJSwJbbSbtSWScSt",
+            "firstCompartment": "sLMLsThhjgqLlsnsLgTLtM",
+            "secondCompartment": "FcRbcPcJSwJbbSbtSWScSt",
+            "itemsCount": 44,
+            "itemsCountHalf": 22,
+            "hadError": true,
+            "itemWithError": "t",
+            "priorityItemError": 20
+        },
+        {
+            "rucksackItems": "fvrjjDjvNprdPwwJCCSrWPFP",
+            "firstCompartment": "fvrjjDjvNprd",
+            "secondCompartment": "PwwJCCSrWPFP",
+            "itemsCount": 24,
+            "itemsCountHalf": 12,
+            "hadError": true,
+            "itemWithError": "r",
+            "priorityItemError": 18
+        },
+        {
+            "rucksackItems": "vfZdGzVzfvGGVGpBjnnMglTsgZlqsMlM",
+            "firstCompartment": "vfZdGzVzfvGGVGpB",
+            "secondCompartment": "jnnMglTsgZlqsMlM",
+            "itemsCount": 32,
+            "itemsCountHalf": 16,
+            "hadError": true,
+            "itemWithError": "Z",
+            "priorityItemError": 52
+        },
+        {
+            "rucksackItems": "TCVMfCfBnHHfLLPFWb",
+            "firstCompartment": "TCVMfCfBn",
+            "secondCompartment": "HHfLLPFWb",
+            "itemsCount": 18,
+            "itemsCountHalf": 9,
+            "hadError": true,
+            "itemWithError": "f",
+            "priorityItemError": 6
+        },
+        {
+            "rucksackItems": "GgQlGJzNzbzHcHHLlcPLHL",
+            "firstCompartment": "GgQlGJzNzbz",
+            "secondCompartment": "HcHHLlcPLHL",
+            "itemsCount": 22,
+            "itemsCountHalf": 11,
+            "hadError": true,
+            "itemWithError": "l",
+            "priorityItemError": 12
+        },
+        {
+            "rucksackItems": "tQbNQGgRZZCVtVMZ",
+            "firstCompartment": "tQbNQGgR",
+            "secondCompartment": "ZZCVtVMZ",
+            "itemsCount": 16,
+            "itemsCountHalf": 8,
+            "hadError": true,
+            "itemWithError": "t",
+            "priorityItemError": 20
+        },
+        {
+            "rucksackItems": "QFFMzwjwngsvsBjGGJWbBbBWbB",
+            "firstCompartment": "QFFMzwjwngsvs",
+            "secondCompartment": "BjGGJWbBbBWbB",
+            "itemsCount": 26,
+            "itemsCountHalf": 13,
+            "hadError": true,
+            "itemWithError": "j",
+            "priorityItemError": 10
+        },
+        {
+            "rucksackItems": "QdmVDmVDWRPWVPVV",
+            "firstCompartment": "QdmVDmVD",
+            "secondCompartment": "WRPWVPVV",
+            "itemsCount": 16,
+            "itemsCountHalf": 8,
+            "hadError": true,
+            "itemWithError": "V",
+            "priorityItemError": 48
+        },
+        {
+            "rucksackItems": "QHtHSdDpLQCCSHrtqrdrttDfLgvnFvFghNszzwgngFwsNF",
+            "firstCompartment": "QHtHSdDpLQCCSHrtqrdrttD",
+            "secondCompartment": "fLgvnFvFghNszzwgngFwsNF",
+            "itemsCount": 46,
+            "itemsCountHalf": 23,
+            "hadError": true,
+            "itemWithError": "L",
+            "priorityItemError": 38
+        },
+        {
+            "rucksackItems": "RzzTNpSRBzSBVpSRlHNSHBSSGPcLNGtjhPPcbcGhPPhcrnct",
+            "firstCompartment": "RzzTNpSRBzSBVpSRlHNSHBSS",
+            "secondCompartment": "GPcLNGtjhPPcbcGhPPhcrnct",
+            "itemsCount": 48,
+            "itemsCountHalf": 24,
+            "hadError": true,
+            "itemWithError": "N",
+            "priorityItemError": 40
+        },
+        {
+            "rucksackItems": "CCmmCwwdfFJqDmdwsddhsmvdcMbLfcftttbPnjMPbcjPMPbP",
+            "firstCompartment": "CCmmCwwdfFJqDmdwsddhsmvd",
+            "secondCompartment": "cMbLfcftttbPnjMPbcjPMPbP",
+            "itemsCount": 48,
+            "itemsCountHalf": 24,
+            "hadError": true,
+            "itemWithError": "f",
+            "priorityItemError": 6
+        },
+        {
+            "rucksackItems": "mdZQmvssFdqsFZvsZQmvDvmWzgQBWTRzTzHlppWRglHBQh",
+            "firstCompartment": "mdZQmvssFdqsFZvsZQmvDvm",
+            "secondCompartment": "WzgQBWTRzTzHlppWRglHBQh",
+            "itemsCount": 46,
+            "itemsCountHalf": 23,
+            "hadError": true,
+            "itemWithError": "Q",
+            "priorityItemError": 43
+        },
+        {
+            "rucksackItems": "VWmnfQWzWWnHWMfmmMVNMfWjtBtBNSNSrlStlpjJBBlgBS",
+            "firstCompartment": "VWmnfQWzWWnHWMfmmMVNMfW",
+            "secondCompartment": "jtBtBNSNSrlStlpjJBBlgBS",
+            "itemsCount": 46,
+            "itemsCountHalf": 23,
+            "hadError": true,
+            "itemWithError": "N",
+            "priorityItemError": 40
+        },
+        {
+            "rucksackItems": "cZZvbwsZsbbZvvscCRdFTTTQrBStdBJgSdhjgBjBjJjpJJ",
+            "firstCompartment": "cZZvbwsZsbbZvvscCRdFTTT",
+            "secondCompartment": "QrBStdBJgSdhjgBjBjJjpJJ",
+            "itemsCount": 46,
+            "itemsCountHalf": 23,
+            "hadError": true,
+            "itemWithError": "d",
+            "priorityItemError": 4
+        },
+        {
+            "rucksackItems": "wCFTCbZbFwwCTvFTwsPGccMzMDWVWfzLGmqHnnDHGLQL",
+            "firstCompartment": "wCFTCbZbFwwCTvFTwsPGcc",
+            "secondCompartment": "MzMDWVWfzLGmqHnnDHGLQL",
+            "itemsCount": 44,
+            "itemsCountHalf": 22,
+            "hadError": true,
+            "itemWithError": "G",
+            "priorityItemError": 33
+        },
+        {
+            "rucksackItems": "sNQQHbbhdlpdrQllqpsqSpGjZDZGgDnVcnjjnnDZ",
+            "firstCompartment": "sNQQHbbhdlpdrQllqpsq",
+            "secondCompartment": "SpGjZDZGgDnVcnjjnnDZ",
+            "itemsCount": 40,
+            "itemsCountHalf": 20,
+            "hadError": true,
+            "itemWithError": "p",
+            "priorityItemError": 16
+        },
+        {
+            "rucksackItems": "WWRLGFvJBJPvzzWjnTncDVZTTPgDff",
+            "firstCompartment": "WWRLGFvJBJPvzzW",
+            "secondCompartment": "jnTncDVZTTPgDff",
+            "itemsCount": 30,
+            "itemsCountHalf": 15,
+            "hadError": true,
+            "itemWithError": "P",
+            "priorityItemError": 42
+        },
+        {
+            "rucksackItems": "FLRLGRFRJLBWJmJzMRLCvldrMrbbltdhQQlNqtMbsb",
+            "firstCompartment": "FLRLGRFRJLBWJmJzMRLCv",
+            "secondCompartment": "ldrMrbbltdhQQlNqtMbsb",
+            "itemsCount": 42,
+            "itemsCountHalf": 21,
+            "hadError": true,
+            "itemWithError": "M",
+            "priorityItemError": 39
+        },
+        {
+            "rucksackItems": "HZllwlZSlSZwhvmQjcZhTqcT",
+            "firstCompartment": "HZllwlZSlSZw",
+            "secondCompartment": "hvmQjcZhTqcT",
+            "itemsCount": 24,
+            "itemsCountHalf": 12,
+            "hadError": true,
+            "itemWithError": "Z",
+            "priorityItemError": 52
+        },
+        {
+            "rucksackItems": "sPzzdgpszpzsBdvvMccvcqPThjhM",
+            "firstCompartment": "sPzzdgpszpzsBd",
+            "secondCompartment": "vvMccvcqPThjhM",
+            "itemsCount": 28,
+            "itemsCountHalf": 14,
+            "hadError": true,
+            "itemWithError": "P",
+            "priorityItemError": 42
+        },
+        {
+            "rucksackItems": "JDdsDspLzsdzBgVdBGBzCLlwbbwWSnlnnWffHwJcNlHw",
+            "firstCompartment": "JDdsDspLzsdzBgVdBGBzCL",
+            "secondCompartment": "lwbbwWSnlnnWffHwJcNlHw",
+            "itemsCount": 44,
+            "itemsCountHalf": 22,
+            "hadError": true,
+            "itemWithError": "J",
+            "priorityItemError": 36
+        },
+        {
+            "rucksackItems": "nzCTCnpqJqfCnvvjZjWjPcZrmcmZfW",
+            "firstCompartment": "nzCTCnpqJqfCnvv",
+            "secondCompartment": "jZjWjPcZrmcmZfW",
+            "itemsCount": 30,
+            "itemsCountHalf": 15,
+            "hadError": true,
+            "itemWithError": "f",
+            "priorityItemError": 6
+        },
+        {
+            "rucksackItems": "GNdwgVjwRdRglMrPWLPWZWcNWW",
+            "firstCompartment": "GNdwgVjwRdRgl",
+            "secondCompartment": "MrPWLPWZWcNWW",
+            "itemsCount": 26,
+            "itemsCountHalf": 13,
+            "hadError": true,
+            "itemWithError": "N",
+            "priorityItemError": 40
+        },
+        {
+            "rucksackItems": "dVblgtRwQgSGVBldbQBbBRJnQJTsJHTqnzzJFpjvHnnn",
+            "firstCompartment": "dVblgtRwQgSGVBldbQBbBR",
+            "secondCompartment": "JnQJTsJHTqnzzJFpjvHnnn",
+            "itemsCount": 44,
+            "itemsCountHalf": 22,
+            "hadError": true,
+            "itemWithError": "Q",
+            "priorityItemError": 43
+        },
+        {
+            "rucksackItems": "dqpQQrdqQpLfqcGSdggQdgRMmwHBMMBVNRNDFFBDBgNt",
+            "firstCompartment": "dqpQQrdqQpLfqcGSdggQdg",
+            "secondCompartment": "RMmwHBMMBVNRNDFFBDBgNt",
+            "itemsCount": 44,
+            "itemsCountHalf": 22,
+            "hadError": true,
+            "itemWithError": "g",
+            "priorityItemError": 7
+        },
+        {
+            "rucksackItems": "vTzsnZCnlCnshbPlvZJbBzVmmVRDNwtHFBwMDVBR",
+            "firstCompartment": "vTzsnZCnlCnshbPlvZJb",
+            "secondCompartment": "BzVmmVRDNwtHFBwMDVBR",
+            "itemsCount": 40,
+            "itemsCountHalf": 20,
+            "hadError": true,
+            "itemWithError": "z",
+            "priorityItemError": 26
+        },
+        {
+            "rucksackItems": "lJCshjTJbVqfVdjjjG",
+            "firstCompartment": "lJCshjTJb",
+            "secondCompartment": "VqfVdjjjG",
+            "itemsCount": 18,
+            "itemsCountHalf": 9,
+            "hadError": true,
+            "itemWithError": "j",
+            "priorityItemError": 10
+        },
+        {
+            "rucksackItems": "WlLCJlHLcZcJWcWZJnLHnPqlFtSthTnFNThVtNhVhvNVzVtF",
+            "firstCompartment": "WlLCJlHLcZcJWcWZJnLHnPql",
+            "secondCompartment": "FtSthTnFNThVtNhVhvNVzVtF",
+            "itemsCount": 48,
+            "itemsCountHalf": 24,
+            "hadError": true,
+            "itemWithError": "n",
+            "priorityItemError": 14
+        },
+        {
+            "rucksackItems": "QfbgRsspfDRsgfjqqRRpDbSNSTFzBbTbhttVBhVNBzzT",
+            "firstCompartment": "QfbgRsspfDRsgfjqqRRpDb",
+            "secondCompartment": "SNSTFzBbTbhttVBhVNBzzT",
+            "itemsCount": 44,
+            "itemsCountHalf": 22,
+            "hadError": true,
+            "itemWithError": "b",
+            "priorityItemError": 2
+        },
+        {
+            "rucksackItems": "fwgfRdpdfQDqgPHHZJZCcdGddH",
+            "firstCompartment": "fwgfRdpdfQDqg",
+            "secondCompartment": "PHHZJZCcdGddH",
+            "itemsCount": 26,
+            "itemsCountHalf": 13,
+            "hadError": true,
+            "itemWithError": "d",
+            "priorityItemError": 4
+        },
+        {
+            "rucksackItems": "sbrbmVmfddzJntZZtwtMMf",
+            "firstCompartment": "sbrbmVmfddz",
+            "secondCompartment": "JntZZtwtMMf",
+            "itemsCount": 22,
+            "itemsCountHalf": 11,
+            "hadError": true,
+            "itemWithError": "f",
+            "priorityItemError": 6
+        },
+        {
+            "rucksackItems": "PvhwPRlvvWhFvSRhpFMMJGMFppnBTBGJ",
+            "firstCompartment": "PvhwPRlvvWhFvSRh",
+            "secondCompartment": "pFMMJGMFppnBTBGJ",
+            "itemsCount": 32,
+            "itemsCountHalf": 16,
+            "hadError": true,
+            "itemWithError": "F",
+            "priorityItemError": 32
+        },
+        {
+            "rucksackItems": "RPlCCLDPDClwHbrdzsdNLzgs",
+            "firstCompartment": "RPlCCLDPDClw",
+            "secondCompartment": "HbrdzsdNLzgs",
+            "itemsCount": 24,
+            "itemsCountHalf": 12,
+            "hadError": true,
+            "itemWithError": "L",
+            "priorityItemError": 38
+        },
+        {
+            "rucksackItems": "HZgqtgbqRZvzwzCh",
+            "firstCompartment": "HZgqtgbq",
+            "secondCompartment": "RZvzwzCh",
+            "itemsCount": 16,
+            "itemsCountHalf": 8,
+            "hadError": true,
+            "itemWithError": "Z",
+            "priorityItemError": 52
+        },
+        {
+            "rucksackItems": "BFqmGfrNLQfhzJWBhRJwJR",
+            "firstCompartment": "BFqmGfrNLQf",
+            "secondCompartment": "hzJWBhRJwJR",
+            "itemsCount": 22,
+            "itemsCountHalf": 11,
+            "hadError": true,
+            "itemWithError": "B",
+            "priorityItemError": 28
+        },
+        {
+            "rucksackItems": "LFqFQjrcrcqFNMmMdHggntDPMnsDbn",
+            "firstCompartment": "LFqFQjrcrcqFNMm",
+            "secondCompartment": "MdHggntDPMnsDbn",
+            "itemsCount": 30,
+            "itemsCountHalf": 15,
+            "hadError": true,
+            "itemWithError": "M",
+            "priorityItemError": 39
+        },
+        {
+            "rucksackItems": "NmWmPblGnnTTNlFGPmNWfwdchdlHdBdwcfCfZppZ",
+            "firstCompartment": "NmWmPblGnnTTNlFGPmNW",
+            "secondCompartment": "fwdchdlHdBdwcfCfZppZ",
+            "itemsCount": 40,
+            "itemsCountHalf": 20,
+            "hadError": true,
+            "itemWithError": "l",
+            "priorityItemError": 12
+        },
+        {
+            "rucksackItems": "rzqzRjgVrJrzzcFdqdCBFBhZhH",
+            "firstCompartment": "rzqzRjgVrJrzz",
+            "secondCompartment": "cFdqdCBFBhZhH",
+            "itemsCount": 26,
+            "itemsCountHalf": 13,
+            "hadError": true,
+            "itemWithError": "q",
+            "priorityItemError": 17
+        },
+        {
+            "rucksackItems": "VDRsRMjRJJrQsJPTGFNvsbnsnLGm",
+            "firstCompartment": "VDRsRMjRJJrQsJ",
+            "secondCompartment": "PTGFNvsbnsnLGm",
+            "itemsCount": 28,
+            "itemsCountHalf": 14,
+            "hadError": true,
+            "itemWithError": "s",
+            "priorityItemError": 19
+        },
+        {
+            "rucksackItems": "nrbrBLTffjNRzGQSJHJQGT",
+            "firstCompartment": "nrbrBLTffjN",
+            "secondCompartment": "RzGQSJHJQGT",
+            "itemsCount": 22,
+            "itemsCountHalf": 11,
+            "hadError": true,
+            "itemWithError": "T",
+            "priorityItemError": 46
+        },
+        {
+            "rucksackItems": "tcZqMcppCmHRQPGGCG",
+            "firstCompartment": "tcZqMcppC",
+            "secondCompartment": "mHRQPGGCG",
+            "itemsCount": 18,
+            "itemsCountHalf": 9,
+            "hadError": true,
+            "itemWithError": "C",
+            "priorityItemError": 29
+        },
+        {
+            "rucksackItems": "pMDcZhpgcpFDfrwNDDrLVjGj",
+            "firstCompartment": "pMDcZhpgcpFD",
+            "secondCompartment": "frwNDDrLVjGj",
+            "itemsCount": 24,
+            "itemsCountHalf": 12,
+            "hadError": true,
+            "itemWithError": "D",
+            "priorityItemError": 30
+        },
+        {
+            "rucksackItems": "LWlmlmWqvrBMWWBlmjLThBrfPJZfZZCwPCJJwPCTcggCsd",
+            "firstCompartment": "LWlmlmWqvrBMWWBlmjLThBr",
+            "secondCompartment": "fPJZfZZCwPCJJwPCTcggCsd",
+            "itemsCount": 46,
+            "itemsCountHalf": 23,
+            "hadError": true,
+            "itemWithError": "T",
+            "priorityItemError": 46
+        },
+        {
+            "rucksackItems": "pSbRHbzpHDVFRQRfPdfnZswgcJcppp",
+            "firstCompartment": "pSbRHbzpHDVFRQR",
+            "secondCompartment": "fPdfnZswgcJcppp",
+            "itemsCount": 30,
+            "itemsCountHalf": 15,
+            "hadError": true,
+            "itemWithError": "p",
+            "priorityItemError": 16
+        },
+        {
+            "rucksackItems": "SzRNGbzSWNPLWqLv",
+            "firstCompartment": "SzRNGbzS",
+            "secondCompartment": "WNPLWqLv",
+            "itemsCount": 16,
+            "itemsCountHalf": 8,
+            "hadError": true,
+            "itemWithError": "N",
+            "priorityItemError": 40
+        },
+        {
+            "rucksackItems": "vqslblpspsvqBFSqcrrZZDdTfFPHccrf",
+            "firstCompartment": "vqslblpspsvqBFSq",
+            "secondCompartment": "crrZZDdTfFPHccrf",
+            "itemsCount": 32,
+            "itemsCountHalf": 16,
+            "hadError": true,
+            "itemWithError": "F",
+            "priorityItemError": 32
+        },
+        {
+            "rucksackItems": "GWRhWmjwhRcQdCDrPjDP",
+            "firstCompartment": "GWRhWmjwhR",
+            "secondCompartment": "cQdCDrPjDP",
+            "itemsCount": 20,
+            "itemsCountHalf": 10,
+            "hadError": true,
+            "itemWithError": "j",
+            "priorityItemError": 10
+        },
+        {
+            "rucksackItems": "mcWLVnnWJgGRzVSsVSpSSptNpMvb",
+            "firstCompartment": "mcWLVnnWJgGRzV",
+            "secondCompartment": "SsVSpSSptNpMvb",
+            "itemsCount": 28,
+            "itemsCountHalf": 14,
+            "hadError": true,
+            "itemWithError": "V",
+            "priorityItemError": 48
+        },
+        {
+            "rucksackItems": "wHTPfdTvHlPHGpdvvTddGfcJLLWWwWWcCWrqrVMWCVLL",
+            "firstCompartment": "wHTPfdTvHlPHGpdvvTddGf",
+            "secondCompartment": "cJLLWWwWWcCWrqrVMWCVLL",
+            "itemsCount": 44,
+            "itemsCountHalf": 22,
+            "hadError": true,
+            "itemWithError": "w",
+            "priorityItemError": 23
+        },
+        {
+            "rucksackItems": "zhsSNZhnshNSnvZmvsCWWSLrVMcrSCLWJcrq",
+            "firstCompartment": "zhsSNZhnshNSnvZmvs",
+            "secondCompartment": "CWWSLrVMcrSCLWJcrq",
+            "itemsCount": 36,
+            "itemsCountHalf": 18,
+            "hadError": true,
+            "itemWithError": "S",
+            "priorityItemError": 45
+        },
+        {
+            "rucksackItems": "snDnshmNsjnTdHPfDGvdDT",
+            "firstCompartment": "snDnshmNsjn",
+            "secondCompartment": "TdHPfDGvdDT",
+            "itemsCount": 22,
+            "itemsCountHalf": 11,
+            "hadError": true,
+            "itemWithError": "D",
+            "priorityItemError": 30
+        },
+        {
+            "rucksackItems": "CfrnFFMnnsRNrNCwFCrdssgqgqvVZvZqlTWBNWZqlJBW",
+            "firstCompartment": "CfrnFFMnnsRNrNCwFCrdss",
+            "secondCompartment": "gqgqvVZvZqlTWBNWZqlJBW",
+            "itemsCount": 44,
+            "itemsCountHalf": 22,
+            "hadError": true,
+            "itemWithError": "N",
+            "priorityItemError": 40
+        },
+        {
+            "rucksackItems": "htDhDLhwPWWBqTghgB",
+            "firstCompartment": "htDhDLhwP",
+            "secondCompartment": "WWBqTghgB",
+            "itemsCount": 18,
+            "itemsCountHalf": 9,
+            "hadError": true,
+            "itemWithError": "h",
+            "priorityItemError": 8
+        },
+        {
+            "rucksackItems": "DPLPzHDtSPStjLGLtzSMwbdMdnCHrRdCFsmfnR",
+            "firstCompartment": "DPLPzHDtSPStjLGLtzS",
+            "secondCompartment": "MwbdMdnCHrRdCFsmfnR",
+            "itemsCount": 38,
+            "itemsCountHalf": 19,
+            "hadError": true,
+            "itemWithError": "H",
+            "priorityItemError": 34
+        },
+        {
+            "rucksackItems": "nBNWCvJmVPNnCPNDJWbtmSwqTttcQsSqtqTjQQ",
+            "firstCompartment": "nBNWCvJmVPNnCPNDJWb",
+            "secondCompartment": "tmSwqTttcQsSqtqTjQQ",
+            "itemsCount": 38,
+            "itemsCountHalf": 19,
+            "hadError": true,
+            "itemWithError": "m",
+            "priorityItemError": 13
+        },
+        {
+            "rucksackItems": "pMflzLlffRRMRdFlflpLddGdsTjwHqzcvwTqtsStQQjtwwsQ",
+            "firstCompartment": "pMflzLlffRRMRdFlflpLddGd",
+            "secondCompartment": "sTjwHqzcvwTqtsStQQjtwwsQ",
+            "itemsCount": 48,
+            "itemsCountHalf": 24,
+            "hadError": true,
+            "itemWithError": "z",
+            "priorityItemError": 26
+        },
+        {
+            "rucksackItems": "ZhGlphlpvvLLfFGvMLhfrfWNJNNPVPbnPhnDgDbDDNbJ",
+            "firstCompartment": "ZhGlphlpvvLLfFGvMLhfrf",
+            "secondCompartment": "WNJNNPVPbnPhnDgDbDDNbJ",
+            "itemsCount": 44,
+            "itemsCountHalf": 22,
+            "hadError": true,
+            "itemWithError": "h",
+            "priorityItemError": 8
+        },
+        {
+            "rucksackItems": "ZCpCmVlZvlpBBwvvMCrJhrfhMfjjWMSG",
+            "firstCompartment": "ZCpCmVlZvlpBBwvv",
+            "secondCompartment": "MCrJhrfhMfjjWMSG",
+            "itemsCount": 32,
+            "itemsCountHalf": 16,
+            "hadError": true,
+            "itemWithError": "C",
+            "priorityItemError": 29
+        },
+        {
+            "rucksackItems": "qhstFzFFqzHGzNfSMJSGzM",
+            "firstCompartment": "qhstFzFFqzH",
+            "secondCompartment": "GzNfSMJSGzM",
+            "itemsCount": 22,
+            "itemsCountHalf": 11,
+            "hadError": true,
+            "itemWithError": "z",
+            "priorityItemError": 26
+        },
+        {
+            "rucksackItems": "QnHRPRgRQPtPhtnDsqsbDQPBlTcpBwmVmTvbwdwBTVZVpl",
+            "firstCompartment": "QnHRPRgRQPtPhtnDsqsbDQP",
+            "secondCompartment": "BlTcpBwmVmTvbwdwBTVZVpl",
+            "itemsCount": 46,
+            "itemsCountHalf": 23,
+            "hadError": true,
+            "itemWithError": "b",
+            "priorityItemError": 2
+        },
+        {
+            "rucksackItems": "PHmqHdddqBWMmTvMvTGMBWPdwhssnnHlhgsNwhwNHQzwrswh",
+            "firstCompartment": "PHmqHdddqBWMmTvMvTGMBWPd",
+            "secondCompartment": "whssnnHlhgsNwhwNHQzwrswh",
+            "itemsCount": 48,
+            "itemsCountHalf": 24,
+            "hadError": true,
+            "itemWithError": "H",
+            "priorityItemError": 34
+        },
+        {
+            "rucksackItems": "cSbVcDLtbfLSFzhlhJswgtrsww",
+            "firstCompartment": "cSbVcDLtbfLSF",
+            "secondCompartment": "zhlhJswgtrsww",
+            "itemsCount": 26,
+            "itemsCountHalf": 13,
+            "hadError": true,
+            "itemWithError": "t",
+            "priorityItemError": 20
+        },
+        {
+            "rucksackItems": "bSLlFLFFLDZVLpZVjFLdPMdBBqGGPmmqWGdGjM",
+            "firstCompartment": "bSLlFLFFLDZVLpZVjFL",
+            "secondCompartment": "dPMdBBqGGPmmqWGdGjM",
+            "itemsCount": 38,
+            "itemsCountHalf": 19,
+            "hadError": true,
+            "itemWithError": "j",
+            "priorityItemError": 10
+        },
+        {
+            "rucksackItems": "FQCnQwFRbnrSfgQgwFRCnswmPLpMppPdMMllpLMptMLldPSZ",
+            "firstCompartment": "FQCnQwFRbnrSfgQgwFRCnswm",
+            "secondCompartment": "PLpMppPdMMllpLMptMLldPSZ",
+            "itemsCount": 48,
+            "itemsCountHalf": 24,
+            "hadError": true,
+            "itemWithError": "S",
+            "priorityItemError": 45
+        },
+        {
+            "rucksackItems": "cJhhJcJVBJjhfHDvJqThvVDcpdGGqdZGdlltpqWdMqpdGWtG",
+            "firstCompartment": "cJhhJcJVBJjhfHDvJqThvVDc",
+            "secondCompartment": "pdGGqdZGdlltpqWdMqpdGWtG",
+            "itemsCount": 48,
+            "itemsCountHalf": 24,
+            "hadError": true,
+            "itemWithError": "q",
+            "priorityItemError": 17
+        },
+        {
+            "rucksackItems": "HhzTjJBzJTvNJHvzvvNBzBFnFCNCbCwrbnRbgRwfwQsg",
+            "firstCompartment": "HhzTjJBzJTvNJHvzvvNBzB",
+            "secondCompartment": "FnFCNCbCwrbnRbgRwfwQsg",
+            "itemsCount": 44,
+            "itemsCountHalf": 22,
+            "hadError": true,
+            "itemWithError": "N",
+            "priorityItemError": 40
+        },
+        {
+            "rucksackItems": "jRzDgbDDQDgVqqDGsjttNdwqNJZNwNdTWrpB",
+            "firstCompartment": "jRzDgbDDQDgVqqDGsj",
+            "secondCompartment": "ttNdwqNJZNwNdTWrpB",
+            "itemsCount": 36,
+            "itemsCountHalf": 18,
+            "hadError": true,
+            "itemWithError": "q",
+            "priorityItemError": 17
+        },
+        {
+            "rucksackItems": "MHvvvlSHFllMhhMrpWBJtlWdpJrTwZ",
+            "firstCompartment": "MHvvvlSHFllMhhM",
+            "secondCompartment": "rpWBJtlWdpJrTwZ",
+            "itemsCount": 30,
+            "itemsCountHalf": 15,
+            "hadError": true,
+            "itemWithError": "l",
+            "priorityItemError": 12
+        },
+        {
+            "rucksackItems": "mFcFFHmCmtcvfvFFHHLDGnRVzjDgnmgmnzGgGg",
+            "firstCompartment": "mFcFFHmCmtcvfvFFHHL",
+            "secondCompartment": "DGnRVzjDgnmgmnzGgGg",
+            "itemsCount": 38,
+            "itemsCountHalf": 19,
+            "hadError": true,
+            "itemWithError": "m",
+            "priorityItemError": 13
+        },
+        {
+            "rucksackItems": "JJhDpDdmsJJdgmhrpPjGjFLPPSNpjL",
+            "firstCompartment": "JJhDpDdmsJJdgmh",
+            "secondCompartment": "rpPjGjFLPPSNpjL",
+            "itemsCount": 30,
+            "itemsCountHalf": 15,
+            "hadError": true,
+            "itemWithError": "p",
+            "priorityItemError": 16
+        },
+        {
+            "rucksackItems": "WbznbRGnPfrfRSrN",
+            "firstCompartment": "WbznbRGn",
+            "secondCompartment": "PfrfRSrN",
+            "itemsCount": 16,
+            "itemsCountHalf": 8,
+            "hadError": true,
+            "itemWithError": "R",
+            "priorityItemError": 44
+        },
+        {
+            "rucksackItems": "WqGnnVGVMGHtWTCgJvZHggBggZCg",
+            "firstCompartment": "WqGnnVGVMGHtWT",
+            "secondCompartment": "CgJvZHggBggZCg",
+            "itemsCount": 28,
+            "itemsCountHalf": 14,
+            "hadError": true,
+            "itemWithError": "H",
+            "priorityItemError": 34
+        },
+        {
+            "rucksackItems": "wlrPQtZQvwrzlvNfZLMZBjbbqjqLbSBjTg",
+            "firstCompartment": "wlrPQtZQvwrzlvNfZ",
+            "secondCompartment": "LMZBjbbqjqLbSBjTg",
+            "itemsCount": 34,
+            "itemsCountHalf": 17,
+            "hadError": true,
+            "itemWithError": "Z",
+            "priorityItemError": 52
+        },
+        {
+            "rucksackItems": "PGJDVdsdhsPVPjbTcLcGLgjqbM",
+            "firstCompartment": "PGJDVdsdhsPVP",
+            "secondCompartment": "jbTcLcGLgjqbM",
+            "itemsCount": 26,
+            "itemsCountHalf": 13,
+            "hadError": true,
+            "itemWithError": "G",
+            "priorityItemError": 33
+        },
+        {
+            "rucksackItems": "VPDRHWRdsRQvpfmmlw",
+            "firstCompartment": "VPDRHWRds",
+            "secondCompartment": "RQvpfmmlw",
+            "itemsCount": 18,
+            "itemsCountHalf": 9,
+            "hadError": true,
+            "itemWithError": "R",
+            "priorityItemError": 44
+        },
+        {
+            "rucksackItems": "pvTZTSpTZvGGphNvvbDpdrMqrjlWdPqqjWdldNrd",
+            "firstCompartment": "pvTZTSpTZvGGphNvvbDp",
+            "secondCompartment": "drMqrjlWdPqqjWdldNrd",
+            "itemsCount": 40,
+            "itemsCountHalf": 20,
+            "hadError": true,
+            "itemWithError": "N",
+            "priorityItemError": 40
+        },
+        {
+            "rucksackItems": "gmmJmsQfJgcRQJQJJncVQjMWllSnqljqBlPPjPHHHH",
+            "firstCompartment": "gmmJmsQfJgcRQJQJJncVQ",
+            "secondCompartment": "jMWllSnqljqBlPPjPHHHH",
+            "itemsCount": 42,
+            "itemsCountHalf": 21,
+            "hadError": true,
+            "itemWithError": "n",
+            "priorityItemError": 14
+        },
+        {
+            "rucksackItems": "QVJQRVcwmJcchwpSZLwGbSZZ",
+            "firstCompartment": "QVJQRVcwmJcc",
+            "secondCompartment": "hwpSZLwGbSZZ",
+            "itemsCount": 24,
+            "itemsCountHalf": 12,
+            "hadError": true,
+            "itemWithError": "w",
+            "priorityItemError": 23
+        },
+        {
+            "rucksackItems": "zjrDMWcjDzQjDlWrnqqRBRNhBJRBhBJqnf",
+            "firstCompartment": "zjrDMWcjDzQjDlWrn",
+            "secondCompartment": "qqRBRNhBJRBhBJqnf",
+            "itemsCount": 34,
+            "itemsCountHalf": 17,
+            "hadError": true,
+            "itemWithError": "n",
+            "priorityItemError": 14
+        },
+        {
+            "rucksackItems": "TTGPPdgGLwdHGwGPTgLbbvhHtRRNRRSfchqRvSqHRJ",
+            "firstCompartment": "TTGPPdgGLwdHGwGPTgLbb",
+            "secondCompartment": "vhHtRRNRRSfchqRvSqHRJ",
+            "itemsCount": 42,
+            "itemsCountHalf": 21,
+            "hadError": true,
+            "itemWithError": "H",
+            "priorityItemError": 34
+        },
+        {
+            "rucksackItems": "TZTccPpdZwPQjllsspjVzD",
+            "firstCompartment": "TZTccPpdZwP",
+            "secondCompartment": "QjllsspjVzD",
+            "itemsCount": 22,
+            "itemsCountHalf": 11,
+            "hadError": true,
+            "itemWithError": "p",
+            "priorityItemError": 16
+        },
+        {
+            "rucksackItems": "jHLHhHFRjhcblDRRWbWTdtppLTntTnMmGLMvTp",
+            "firstCompartment": "jHLHhHFRjhcblDRRWbW",
+            "secondCompartment": "TdtppLTntTnMmGLMvTp",
+            "itemsCount": 38,
+            "itemsCountHalf": 19,
+            "hadError": true,
+            "itemWithError": "L",
+            "priorityItemError": 38
+        },
+        {
+            "rucksackItems": "BBQBgBBCrrgqJqTtMZMpngdtpvpG",
+            "firstCompartment": "BBQBgBBCrrgqJq",
+            "secondCompartment": "TtMZMpngdtpvpG",
+            "itemsCount": 28,
+            "itemsCountHalf": 14,
+            "hadError": true,
+            "itemWithError": "g",
+            "priorityItemError": 7
+        },
+        {
+            "rucksackItems": "QJJJQrsVsQQfQVPCNqsNSjHdhhdRHDNHFHFclh",
+            "firstCompartment": "QJJJQrsVsQQfQVPCNqs",
+            "secondCompartment": "NSjHdhhdRHDNHFHFclh",
+            "itemsCount": 38,
+            "itemsCountHalf": 19,
+            "hadError": true,
+            "itemWithError": "N",
+            "priorityItemError": 40
+        },
+        {
+            "rucksackItems": "RbCLnvdtnLRLRbmLPpHdQCvmNJpJSZSJlgDzglGlzcclcDGD",
+            "firstCompartment": "RbCLnvdtnLRLRbmLPpHdQCvm",
+            "secondCompartment": "NJpJSZSJlgDzglGlzcclcDGD",
+            "itemsCount": 48,
+            "itemsCountHalf": 24,
+            "hadError": true,
+            "itemWithError": "p",
+            "priorityItemError": 16
+        },
+        {
+            "rucksackItems": "qBBwMjfsFMjsMbfWbwjlzDZlcWclJczgNDGNDl",
+            "firstCompartment": "qBBwMjfsFMjsMbfWbwj",
+            "secondCompartment": "lzDZlcWclJczgNDGNDl",
+            "itemsCount": 38,
+            "itemsCountHalf": 19,
+            "hadError": true,
+            "itemWithError": "W",
+            "priorityItemError": 49
+        },
+        {
+            "rucksackItems": "wqjhrwwhhCvbQPrRnC",
+            "firstCompartment": "wqjhrwwhh",
+            "secondCompartment": "CvbQPrRnC",
+            "itemsCount": 18,
+            "itemsCountHalf": 9,
+            "hadError": true,
+            "itemWithError": "r",
+            "priorityItemError": 18
+        },
+        {
+            "rucksackItems": "vpWDDDWZQQNGllwHlwWVGj",
+            "firstCompartment": "vpWDDDWZQQN",
+            "secondCompartment": "GllwHlwWVGj",
+            "itemsCount": 22,
+            "itemsCountHalf": 11,
+            "hadError": true,
+            "itemWithError": "W",
+            "priorityItemError": 49
+        },
+        {
+            "rucksackItems": "LCPdqdcdtsvdsCtsddvmVrVjjrBwHlmswmBnmw",
+            "firstCompartment": "LCPdqdcdtsvdsCtsddv",
+            "secondCompartment": "mVrVjjrBwHlmswmBnmw",
+            "itemsCount": 38,
+            "itemsCountHalf": 19,
+            "hadError": true,
+            "itemWithError": "s",
+            "priorityItemError": 19
+        },
+        {
+            "rucksackItems": "fLfvSgvMfdCPqzZNThfNNpTJJQ",
+            "firstCompartment": "fLfvSgvMfdCPq",
+            "secondCompartment": "zZNThfNNpTJJQ",
+            "itemsCount": 26,
+            "itemsCountHalf": 13,
+            "hadError": true,
+            "itemWithError": "f",
+            "priorityItemError": 6
+        },
+        {
+            "rucksackItems": "CVVVLbNVmGNQbGbGHHbHbvdwgQlwJDTFgJQdDZDJFD",
+            "firstCompartment": "CVVVLbNVmGNQbGbGHHbHb",
+            "secondCompartment": "vdwgQlwJDTFgJQdDZDJFD",
+            "itemsCount": 42,
+            "itemsCountHalf": 21,
+            "hadError": true,
+            "itemWithError": "Q",
+            "priorityItemError": 43
+        },
+        {
+            "rucksackItems": "ssWBsBWrjSzWrPtBjnSCTwvFZlDjwZDdgwTDwggv",
+            "firstCompartment": "ssWBsBWrjSzWrPtBjnSC",
+            "secondCompartment": "TwvFZlDjwZDdgwTDwggv",
+            "itemsCount": 40,
+            "itemsCountHalf": 20,
+            "hadError": true,
+            "itemWithError": "j",
+            "priorityItemError": 10
+        },
+        {
+            "rucksackItems": "nntPBqBrPsBfnCRCBWzCVcGVHMLNcbHLNmHqGphp",
+            "firstCompartment": "nntPBqBrPsBfnCRCBWzC",
+            "secondCompartment": "VcGVHMLNcbHLNmHqGphp",
+            "itemsCount": 40,
+            "itemsCountHalf": 20,
+            "hadError": true,
+            "itemWithError": "q",
+            "priorityItemError": 17
+        },
+        {
+            "rucksackItems": "sbbwwzdsbqQQbQnnNbPNGbznHHRdLTggMVHFVvRZTRVRHMZF",
+            "firstCompartment": "sbbwwzdsbqQQbQnnNbPNGbzn",
+            "secondCompartment": "HHRdLTggMVHFVvRZTRVRHMZF",
+            "itemsCount": 48,
+            "itemsCountHalf": 24,
+            "hadError": true,
+            "itemWithError": "d",
+            "priorityItemError": 4
+        },
+        {
+            "rucksackItems": "mWffDWfflBpfmcWjWrrJVvgRLlMZVVhMFFTlHhMM",
+            "firstCompartment": "mWffDWfflBpfmcWjWrrJ",
+            "secondCompartment": "VvgRLlMZVVhMFFTlHhMM",
+            "itemsCount": 40,
+            "itemsCountHalf": 20,
+            "hadError": true,
+            "itemWithError": "l",
+            "priorityItemError": 12
+        },
+        {
+            "rucksackItems": "rJJCctmjcfvzsqsqbtbqPP",
+            "firstCompartment": "rJJCctmjcfv",
+            "secondCompartment": "zsqsqbtbqPP",
+            "itemsCount": 22,
+            "itemsCountHalf": 11,
+            "hadError": true,
+            "itemWithError": "t",
+            "priorityItemError": 20
+        },
+        {
+            "rucksackItems": "HGWjHWzVctQVcJVtjvRsvLTddqDDDsjRLg",
+            "firstCompartment": "HGWjHWzVctQVcJVtj",
+            "secondCompartment": "vRsvLTddqDDDsjRLg",
+            "itemsCount": 34,
+            "itemsCountHalf": 17,
+            "hadError": true,
+            "itemWithError": "j",
+            "priorityItemError": 10
+        },
+        {
+            "rucksackItems": "bbMnlNChZQLZhdDs",
+            "firstCompartment": "bbMnlNCh",
+            "secondCompartment": "ZQLZhdDs",
+            "itemsCount": 16,
+            "itemsCountHalf": 8,
+            "hadError": true,
+            "itemWithError": "h",
+            "priorityItemError": 8
+        },
+        {
+            "rucksackItems": "SMMMMMMNmMllSlrmCczGcVzBcGWFBQGcrt",
+            "firstCompartment": "SMMMMMMNmMllSlrmC",
+            "secondCompartment": "czGcVzBcGWFBQGcrt",
+            "itemsCount": 34,
+            "itemsCountHalf": 17,
+            "hadError": true,
+            "itemWithError": "r",
+            "priorityItemError": 18
+        },
+        {
+            "rucksackItems": "VwQlqcLfdLGqdqDjjgZrjZBdttjd",
+            "firstCompartment": "VwQlqcLfdLGqdq",
+            "secondCompartment": "DjjgZrjZBdttjd",
+            "itemsCount": 28,
+            "itemsCountHalf": 14,
+            "hadError": true,
+            "itemWithError": "d",
+            "priorityItemError": 4
+        },
+        {
+            "rucksackItems": "zSPPPJzJGjJjZrCBDt",
+            "firstCompartment": "zSPPPJzJG",
+            "secondCompartment": "jJjZrCBDt",
+            "itemsCount": 18,
+            "itemsCountHalf": 9,
+            "hadError": true,
+            "itemWithError": "J",
+            "priorityItemError": 36
+        },
+        {
+            "rucksackItems": "WMTMsTWsccsvGGwH",
+            "firstCompartment": "WMTMsTWs",
+            "secondCompartment": "ccsvGGwH",
+            "itemsCount": 16,
+            "itemsCountHalf": 8,
+            "hadError": true,
+            "itemWithError": "s",
+            "priorityItemError": 19
+        },
+        {
+            "rucksackItems": "hZvbQrjTTZjZcjWNrjnQrcTRpGMqcRfRRGzHfHfpfRMqRz",
+            "firstCompartment": "hZvbQrjTTZjZcjWNrjnQrcT",
+            "secondCompartment": "RpGMqcRfRRGzHfHfpfRMqRz",
+            "itemsCount": 46,
+            "itemsCountHalf": 23,
+            "hadError": true,
+            "itemWithError": "c",
+            "priorityItemError": 3
+        },
+        {
+            "rucksackItems": "mDJlFmwCVVwbCVbPBRLMMLpRLwRLHqpR",
+            "firstCompartment": "mDJlFmwCVVwbCVbP",
+            "secondCompartment": "BRLMMLpRLwRLHqpR",
+            "itemsCount": 32,
+            "itemsCountHalf": 16,
+            "hadError": true,
+            "itemWithError": "w",
+            "priorityItemError": 23
+        },
+        {
+            "rucksackItems": "gsCmgJsPDCtCVlvbhgQjhgQbnQbd",
+            "firstCompartment": "gsCmgJsPDCtCVl",
+            "secondCompartment": "vbhgQjhgQbnQbd",
+            "itemsCount": 28,
+            "itemsCountHalf": 14,
+            "hadError": true,
+            "itemWithError": "g",
+            "priorityItemError": 7
+        },
+        {
+            "rucksackItems": "fSgbhhGPGJGhRDmlhhHcHDBH",
+            "firstCompartment": "fSgbhhGPGJGh",
+            "secondCompartment": "RDmlhhHcHDBH",
+            "itemsCount": 24,
+            "itemsCountHalf": 12,
+            "hadError": true,
+            "itemWithError": "h",
+            "priorityItemError": 8
+        },
+        {
+            "rucksackItems": "LsMwQWFswsQMsQMvjslcBcDldBTWfDcHRRdl",
+            "firstCompartment": "LsMwQWFswsQMsQMvjs",
+            "secondCompartment": "lcBcDldBTWfDcHRRdl",
+            "itemsCount": 36,
+            "itemsCountHalf": 18,
+            "hadError": true,
+            "itemWithError": "W",
+            "priorityItemError": 49
+        },
+        {
+            "rucksackItems": "ZpVFwLQwVLQvCVsMjrJbbCNPbzSJtPbPPf",
+            "firstCompartment": "ZpVFwLQwVLQvCVsMj",
+            "secondCompartment": "rJbbCNPbzSJtPbPPf",
+            "itemsCount": 34,
+            "itemsCountHalf": 17,
+            "hadError": true,
+            "itemWithError": "C",
+            "priorityItemError": 29
+        },
+        {
+            "rucksackItems": "VDzWMCpfCcCRDzqDzqNnvLZnfntHQnPPLQlt",
+            "firstCompartment": "VDzWMCpfCcCRDzqDzq",
+            "secondCompartment": "NnvLZnfntHQnPPLQlt",
+            "itemsCount": 36,
+            "itemsCountHalf": 18,
+            "hadError": true,
+            "itemWithError": "f",
+            "priorityItemError": 6
+        },
+        {
+            "rucksackItems": "sJmdbTBdmmGhFhhbJNNQlJnQlQLHPZNn",
+            "firstCompartment": "sJmdbTBdmmGhFhhb",
+            "secondCompartment": "JNNQlJnQlQLHPZNn",
+            "itemsCount": 32,
+            "itemsCountHalf": 16,
+            "hadError": true,
+            "itemWithError": "J",
+            "priorityItemError": 36
+        },
+        {
+            "rucksackItems": "sdwmwsdrmMRpDRMLcw",
+            "firstCompartment": "sdwmwsdrm",
+            "secondCompartment": "MRpDRMLcw",
+            "itemsCount": 18,
+            "itemsCountHalf": 9,
+            "hadError": true,
+            "itemWithError": "w",
+            "priorityItemError": 23
+        },
+        {
+            "rucksackItems": "JpWmSWpCnCbJBZHZVldbdfZf",
+            "firstCompartment": "JpWmSWpCnCbJ",
+            "secondCompartment": "BZHZVldbdfZf",
+            "itemsCount": 24,
+            "itemsCountHalf": 12,
+            "hadError": true,
+            "itemWithError": "b",
+            "priorityItemError": 2
+        },
+        {
+            "rucksackItems": "rgdrgNdrjgNPrMjwTssrPdfDZqsVfQHDFlQDDHQVsZfB",
+            "firstCompartment": "rgdrgNdrjgNPrMjwTssrPd",
+            "secondCompartment": "fDZqsVfQHDFlQDDHQVsZfB",
+            "itemsCount": 44,
+            "itemsCountHalf": 22,
+            "hadError": true,
+            "itemWithError": "s",
+            "priorityItemError": 19
+        },
+        {
+            "rucksackItems": "TRPdNNLgjNwrRTrJpppzCmzmCLSnvS",
+            "firstCompartment": "TRPdNNLgjNwrRTr",
+            "secondCompartment": "JpppzCmzmCLSnvS",
+            "itemsCount": 30,
+            "itemsCountHalf": 15,
+            "hadError": true,
+            "itemWithError": "L",
+            "priorityItemError": 38
+        },
+        {
+            "rucksackItems": "QbtQJHQmbmfmBRvbQRzBvldqcFljsGcFdGdvsqqGls",
+            "firstCompartment": "QbtQJHQmbmfmBRvbQRzBv",
+            "secondCompartment": "ldqcFljsGcFdGdvsqqGls",
+            "itemsCount": 42,
+            "itemsCountHalf": 21,
+            "hadError": true,
+            "itemWithError": "v",
+            "priorityItemError": 22
+        },
+        {
+            "rucksackItems": "ChCPWhDhWZWJVnZpCNChhVDcMcDdcdgGscjgFjGFlsjjGq",
+            "firstCompartment": "ChCPWhDhWZWJVnZpCNChhVD",
+            "secondCompartment": "cMcDdcdgGscjgFjGFlsjjGq",
+            "itemsCount": 46,
+            "itemsCountHalf": 23,
+            "hadError": true,
+            "itemWithError": "D",
+            "priorityItemError": 30
+        },
+        {
+            "rucksackItems": "WZNTWNhNZfJJbTJTmR",
+            "firstCompartment": "WZNTWNhNZ",
+            "secondCompartment": "fJJbTJTmR",
+            "itemsCount": 18,
+            "itemsCountHalf": 9,
+            "hadError": true,
+            "itemWithError": "T",
+            "priorityItemError": 46
+        },
+        {
+            "rucksackItems": "CHGCHFcZvCrchrZrhsVtsBQjMstfZMMBgg",
+            "firstCompartment": "CHGCHFcZvCrchrZrh",
+            "secondCompartment": "sVtsBQjMstfZMMBgg",
+            "itemsCount": 34,
+            "itemsCountHalf": 17,
+            "hadError": true,
+            "itemWithError": "Z",
+            "priorityItemError": 52
+        },
+        {
+            "rucksackItems": "NNqwDLmDjJgQBmVQ",
+            "firstCompartment": "NNqwDLmD",
+            "secondCompartment": "jJgQBmVQ",
+            "itemsCount": 16,
+            "itemsCountHalf": 8,
+            "hadError": true,
+            "itemWithError": "m",
+            "priorityItemError": 13
+        },
+        {
+            "rucksackItems": "wdWLLTgWRTWcCcbrHCHhGW",
+            "firstCompartment": "wdWLLTgWRTW",
+            "secondCompartment": "cCcbrHCHhGW",
+            "itemsCount": 22,
+            "itemsCountHalf": 11,
+            "hadError": true,
+            "itemWithError": "W",
+            "priorityItemError": 49
+        },
+        {
+            "rucksackItems": "bTZZvNjNjLgTCHcWhccfhWJdhvnc",
+            "firstCompartment": "bTZZvNjNjLgTCH",
+            "secondCompartment": "cWhccfhWJdhvnc",
+            "itemsCount": 28,
+            "itemsCountHalf": 14,
+            "hadError": true,
+            "itemWithError": "v",
+            "priorityItemError": 22
+        },
+        {
+            "rucksackItems": "mnFFmPGSwRPShzVPPWPdhhzr",
+            "firstCompartment": "mnFFmPGSwRPS",
+            "secondCompartment": "hzVPPWPdhhzr",
+            "itemsCount": 24,
+            "itemsCountHalf": 12,
+            "hadError": true,
+            "itemWithError": "P",
+            "priorityItemError": 42
+        },
+        {
+            "rucksackItems": "FRtBFGBMFQFttRwtZgTjCTnQNbNLjTCH",
+            "firstCompartment": "FRtBFGBMFQFttRwt",
+            "secondCompartment": "ZgTjCTnQNbNLjTCH",
+            "itemsCount": 32,
+            "itemsCountHalf": 16,
+            "hadError": true,
+            "itemWithError": "Q",
+            "priorityItemError": 43
+        },
+        {
+            "rucksackItems": "bJSqrSpDJbSNbFjSFCfPWGcwGWPrcTCfwr",
+            "firstCompartment": "bJSqrSpDJbSNbFjSF",
+            "secondCompartment": "CfPWGcwGWPrcTCfwr",
+            "itemsCount": 34,
+            "itemsCountHalf": 17,
+            "hadError": true,
+            "itemWithError": "r",
+            "priorityItemError": 18
+        },
+        {
+            "rucksackItems": "tRtLhDsvhQZlHRhRtQQnCnCcdwCPwTwdGcGP",
+            "firstCompartment": "tRtLhDsvhQZlHRhRtQ",
+            "secondCompartment": "QnCnCcdwCPwTwdGcGP",
+            "itemsCount": 36,
+            "itemsCountHalf": 18,
+            "hadError": true,
+            "itemWithError": "Q",
+            "priorityItemError": 43
+        },
+        {
+            "rucksackItems": "HsHvsmBZvmvsmBhHvLssVqDSNgFMDzgbbDVJzbpMVq",
+            "firstCompartment": "HsHvsmBZvmvsmBhHvLssV",
+            "secondCompartment": "qDSNgFMDzgbbDVJzbpMVq",
+            "itemsCount": 42,
+            "itemsCountHalf": 21,
+            "hadError": true,
+            "itemWithError": "V",
+            "priorityItemError": 48
+        },
+        {
+            "rucksackItems": "nSSDHRRRQRBCLCQC",
+            "firstCompartment": "nSSDHRRR",
+            "secondCompartment": "QRBCLCQC",
+            "itemsCount": 16,
+            "itemsCountHalf": 8,
+            "hadError": true,
+            "itemWithError": "R",
+            "priorityItemError": 44
+        },
+        {
+            "rucksackItems": "qGmfPzGmGlrrrpfrqlzrJtLvBlhQbSCvbtCtlFhLFC",
+            "firstCompartment": "qGmfPzGmGlrrrpfrqlzrJ",
+            "secondCompartment": "tLvBlhQbSCvbtCtlFhLFC",
+            "itemsCount": 42,
+            "itemsCountHalf": 21,
+            "hadError": true,
+            "itemWithError": "l",
+            "priorityItemError": 12
+        },
+        {
+            "rucksackItems": "zzpmqqJJVVfJfPfMpfdHNndsNwDSMSDDNcsc",
+            "firstCompartment": "zzpmqqJJVVfJfPfMpf",
+            "secondCompartment": "dHNndsNwDSMSDDNcsc",
+            "itemsCount": 36,
+            "itemsCountHalf": 18,
+            "hadError": true,
+            "itemWithError": "M",
+            "priorityItemError": 39
+        },
+        {
+            "rucksackItems": "CscQsVMhCsMsMHhhVthtwmgZNRqzWLBRLRLmBWmZWBND",
+            "firstCompartment": "CscQsVMhCsMsMHhhVthtwm",
+            "secondCompartment": "gZNRqzWLBRLRLmBWmZWBND",
+            "itemsCount": 44,
+            "itemsCountHalf": 22,
+            "hadError": true,
+            "itemWithError": "m",
+            "priorityItemError": 13
+        },
+        {
+            "rucksackItems": "JQJdddrjrLqBgDBq",
+            "firstCompartment": "JQJdddrj",
+            "secondCompartment": "rLqBgDBq",
+            "itemsCount": 16,
+            "itemsCountHalf": 8,
+            "hadError": true,
+            "itemWithError": "r",
+            "priorityItemError": 18
+        },
+        {
+            "rucksackItems": "QbFlTffpMbMnsPCh",
+            "firstCompartment": "QbFlTffp",
+            "secondCompartment": "MbMnsPCh",
+            "itemsCount": 16,
+            "itemsCountHalf": 8,
+            "hadError": true,
+            "itemWithError": "b",
+            "priorityItemError": 2
+        },
+        {
+            "rucksackItems": "gDdbVbVDddDfVfWQfBRLQZsZLRQQ",
+            "firstCompartment": "gDdbVbVDddDfVf",
+            "secondCompartment": "WQfBRLQZsZLRQQ",
+            "itemsCount": 28,
+            "itemsCountHalf": 14,
+            "hadError": true,
+            "itemWithError": "f",
+            "priorityItemError": 6
+        },
+        {
+            "rucksackItems": "FCCTrGCMStwGHTtTWLQhLZrlRssRhRhp",
+            "firstCompartment": "FCCTrGCMStwGHTtT",
+            "secondCompartment": "WLQhLZrlRssRhRhp",
+            "itemsCount": 32,
+            "itemsCountHalf": 16,
+            "hadError": true,
+            "itemWithError": "r",
+            "priorityItemError": 18
+        },
+        {
+            "rucksackItems": "FSHqtFTmFwmCsSwGTHtMTSdjjcdnVddgzmbVmjmndbbD",
+            "firstCompartment": "FSHqtFTmFwmCsSwGTHtMTS",
+            "secondCompartment": "djjcdnVddgzmbVmjmndbbD",
+            "itemsCount": 44,
+            "itemsCountHalf": 22,
+            "hadError": true,
+            "itemWithError": "m",
+            "priorityItemError": 13
+        },
+        {
+            "rucksackItems": "JtBBMcLWLdfFLhMttcWWhfWLrTRGFsbwTmRGwmwbbCTGGsbD",
+            "firstCompartment": "JtBBMcLWLdfFLhMttcWWhfWL",
+            "secondCompartment": "rTRGFsbwTmRGwmwbbCTGGsbD",
+            "itemsCount": 48,
+            "itemsCountHalf": 24,
+            "hadError": true,
+            "itemWithError": "F",
+            "priorityItemError": 32
+        },
+        {
+            "rucksackItems": "PzQpSQQQvzVvpzHqjvNvQSvGRmmTDVRDmsGsRGsrcDcDGC",
+            "firstCompartment": "PzQpSQQQvzVvpzHqjvNvQSv",
+            "secondCompartment": "GRmmTDVRDmsGsRGsrcDcDGC",
+            "itemsCount": 46,
+            "itemsCountHalf": 23,
+            "hadError": true,
+            "itemWithError": "V",
+            "priorityItemError": 48
+        },
+        {
+            "rucksackItems": "cQPHSPvPvZHqcZjzpZjnZNtWlLdtldJWfnfhlJJtLdMg",
+            "firstCompartment": "cQPHSPvPvZHqcZjzpZjnZN",
+            "secondCompartment": "tWlLdtldJWfnfhlJJtLdMg",
+            "itemsCount": 44,
+            "itemsCountHalf": 22,
+            "hadError": true,
+            "itemWithError": "n",
+            "priorityItemError": 14
+        },
+        {
+            "rucksackItems": "nPPssTBnMJPdtHPVHtRhpv",
+            "firstCompartment": "nPPssTBnMJP",
+            "secondCompartment": "dtHPVHtRhpv",
+            "itemsCount": 22,
+            "itemsCountHalf": 11,
+            "hadError": true,
+            "itemWithError": "P",
+            "priorityItemError": 42
+        },
+        {
+            "rucksackItems": "bSSgGFWDgWwDFFlmWlcShqdpRqpVcHvvnqpvpRHd",
+            "firstCompartment": "bSSgGFWDgWwDFFlmWlcS",
+            "secondCompartment": "hqdpRqpVcHvvnqpvpRHd",
+            "itemsCount": 40,
+            "itemsCountHalf": 20,
+            "hadError": true,
+            "itemWithError": "c",
+            "priorityItemError": 3
+        },
+        {
+            "rucksackItems": "bGFnGljgSsjBCTBszz",
+            "firstCompartment": "bGFnGljgS",
+            "secondCompartment": "sjBCTBszz",
+            "itemsCount": 18,
+            "itemsCountHalf": 9,
+            "hadError": true,
+            "itemWithError": "j",
+            "priorityItemError": 10
+        }
+    ]
+}
