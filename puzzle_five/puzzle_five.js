@@ -74,11 +74,11 @@ function languageProcessor(line) {
 
 /* moves: 13, from: 6, to: 3 */
 function executeSteps(state, steps) {
-    const returnState = Object.assign({}, state);
+    let returnState = {...state};
     const { moves, from, to } = steps;
     // console.log('state: ', state, `moves: ${moves}, from: ${from}, to: ${to}`);
-    const moveFrom = returnState[from];
-    const moveTo = returnState[to];
+    const moveFrom = [...returnState[from]];
+    const moveTo = [...returnState[to]];
     for (let i = 1; i <= moves; i++) {
         console.log('Inside Loop: ', 'moves: ', moves, 'from: ', from, 'to: ', to, 'iteration: ', i, 'state: ', state);
         const poppedItem = moveFrom.pop();
@@ -86,26 +86,26 @@ function executeSteps(state, steps) {
         console.log('AfterOperation: ', 'moveFrom: ', moveFrom, 'moveTo: ', moveTo, 'state: ', state, 'returnState: ', returnState);
     }
     // console.log('moveFrom/to after execution: ', moveFrom, moveTo);
-    // returnState = {...state, [from]: moveFrom, [to]: moveTo};
+    returnState = {...state, [from]: moveFrom, [to]: moveTo};
     // console.log('complete returnState: ', returnState);
     return returnState;
 }
 
 /* moves: 13, from: 6, to: 3 */
 function executeStepsAtOnce(state, steps) {
-    const returnState = Object.assign({}, state);
+    let returnState = {...state};
     const { moves, from, to } = steps;
-    console.log('state: ', state, `moves: ${moves}, from: ${from}, to: ${to}`);
-    const moveFrom = returnState[from];
-    const moveTo = returnState[to];
+    // console.log('state: ', state, `moves: ${moves}, from: ${from}, to: ${to}`);
+    const moveFrom = [...returnState[from]];
+    const moveTo = [...returnState[to]];
     const lastIndexMoveTo = (moveTo.length);
 
     const movedItems = moveFrom.splice(-(moves), moves);
     moveTo.splice(lastIndexMoveTo, 0, ...movedItems);
     
-    console.log('moveFrom/to after execution: ', moveFrom, moveTo);
-    // returnState = {...state, [from]: moveFrom, [to]: moveTo};
-    console.log('complete returnState: ', returnState);
+    // console.log('moveFrom/to after execution: ', moveFrom, moveTo);
+    returnState = {...state, [from]: moveFrom, [to]: moveTo};
+    // console.log('complete returnState: ', returnState);
     return returnState;
 }
 
