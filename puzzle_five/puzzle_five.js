@@ -95,20 +95,17 @@ function executeSteps(state, steps) {
 function executeStepsAtOnce(state, steps) {
     const returnState = Object.assign({}, state);
     const { moves, from, to } = steps;
-    // console.log('state: ', state, `moves: ${moves}, from: ${from}, to: ${to}`);
+    console.log('state: ', state, `moves: ${moves}, from: ${from}, to: ${to}`);
     const moveFrom = returnState[from];
     const moveTo = returnState[to];
-    // for (let i = 1; i <= moves; i++) {
-    //     console.log('Inside Loop: ', 'moves: ', moves, 'from: ', from, 'to: ', to, 'iteration: ', i, 'state: ', state);
+    const lastIndexMoveTo = (moveTo.length);
 
-    //     const poppedItem = moveFrom.pop();
-    //     moveTo.push(poppedItem);
-    //     console.log('AfterOperation: ', 'moveFrom: ', moveFrom, 'moveTo: ', moveTo, 'state: ', state, 'returnState: ', returnState);
-    // }
+    const movedItems = moveFrom.splice(-(moves), moves);
+    moveTo.splice(lastIndexMoveTo, 0, ...movedItems);
     
-    // console.log('moveFrom/to after execution: ', moveFrom, moveTo);
+    console.log('moveFrom/to after execution: ', moveFrom, moveTo);
     // returnState = {...state, [from]: moveFrom, [to]: moveTo};
-    // console.log('complete returnState: ', returnState);
+    console.log('complete returnState: ', returnState);
     return returnState;
 }
 
@@ -120,7 +117,7 @@ function executeStepsAtOnce(state, steps) {
         for await (const line of file.readLines()) {
             const lastState = Object.assign({}, EXECUTED_STATES[((EXECUTED_STATES.length) - 1)].state);
             const steps = languageProcessor(line);
-            const executedState = Object.assign({}, executeSteps(lastState, steps));
+            const executedState = Object.assign({}, executeStepsAtOnce(lastState, steps));
             
             const executedStateData = {
                 state: Object.assign({}, executedState),
