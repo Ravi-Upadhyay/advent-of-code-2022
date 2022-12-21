@@ -96,24 +96,27 @@ const node = () => {
     return {
         name: '',
         path: '',
-        childNodes: [],
         parentNode: '',
         isRootNode: false,
+        isLeafNode: false,
         size: 0
      };
 };
 
 const rootNode = () => {
-    return { ...node, isRootNode: true, parentNode: undefined };
+    return { ...node(), isRootNode: true, parentNode: undefined };
 };
 
 const leafNode = () => {
-    return { ...node, childNodes: undefined, isRootNode: undefined };
+    return { ...node(), isLeafNode: true };
 };
 
-const treeMethods = () => {
-    return {node, rootNode, leafNode};
+const treeMethods =  {
+        node,
+        rootNode,
+        leafNode,
 };
+
 export {
     REGEX_MAP,
     STATEMENT_TYPES,
