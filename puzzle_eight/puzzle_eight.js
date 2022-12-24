@@ -39,10 +39,81 @@ function checkIfTreeIsVisbleFromOutside(matrix, transposedMatrix, height, rI, cI
     return false;
 }
 
+/**
+ * 
+ * @param {INT} arr , Array of elements at one side
+ * @param {INT} m , Height of tree
+ * @returns {BOOLEAN} If tree will be visible from outside
+ */
 function isVisibleFromSide(arr, m) {
     let isVisible = arr.every((e) => e < m);
-    // console.log('I am inside - isVisibleFromSide: array, comparator, isVisible: ', arr, m, isVisible);
     return isVisible;
+}
+
+/**
+ * 
+ * @param {*} matrix Matrix of Trees [2D]
+ * @param {*} transposedMatrix Transpose of Original Matrix [2D], rows <-> columns
+ * @param {*} numberOfRows Number of Rows in the original Matrix
+ * @param {*} numberOfColumns Number of the Columns in the original Matrix
+ * @returns INT countOfVisible, Count of total trees visible from outside
+ *          ARRAY visibleTrees, Array of all trees that are visible from outside
+ */
+function getTreesVisibleFromOutside(matrix, transposedMatrix, numberOfRows, numberOfColumns) {
+    let countOfVisible = 0;
+    let visibleTrees = [];
+
+    // Trees at boundary/border are always visible - i.e first row, last row, first column, last column
+    const rowIndexVisible = [0, (parseInt(numberOfRows) - 1)];
+    const columnIndexVisible = [0, (parseInt(numberOfColumns) - 1)];
+
+    for (let row = 0; row < numberOfRows; row++) {
+        for (let column = 0; column < numberOfColumns; column++) {
+            let visible = false;
+            let location = `[${row}][${column}]`;
+            let height = parseInt(matrix[row][column]);
+            
+            // Trees at boundary/border are always visible - i.e first row, last row, first column, last column
+            if (rowIndexVisible.includes(row) || columnIndexVisible.includes(column)) {
+                visible = true;
+            } else { // For others check Visibility
+                visible = checkIfTreeIsVisbleFromOutside(matrix, transposedMatrix, height, row, column);
+            }
+            
+            if (visible) {
+                ++countOfVisible;
+                let tree = new Tree(height, location, visible);
+                visibleTrees.push(tree);
+            }
+        }
+    }
+    return {countOfVisible, visibleTrees};
+}
+
+function getCountOfTreesVisibleInOneDirection(arr, m) {
+    let count = 0;
+    for (const e of arr) {
+        count++;
+        if (e >= m) break;
+    }
+    return count;
+}
+
+function getCountOfTreesAllDirection(matrix, transposedMatrix, height, rI, cI) {
+    let countLeft = 0; 
+    let countTop = 0; 
+    let countRight = 0; 
+    let countBottom = 0;
+
+    let row = matrix[rI].map((e) => parseInt(e));
+    let column = transposedMatrix[cI].map((e) => parseInt(e));
+
+    countLeft = getCountOfTreesVisibleInOneDirection((row.slice(0,cI)).reverse(), height);
+    countTop = getCountOfTreesVisibleInOneDirection((column.slice(0, rI)).reverse(), height);
+    countRight = getCountOfTreesVisibleInOneDirection(row.slice((cI + 1)), height);
+    countBottom = getCountOfTreesVisibleInOneDirection(column.slice((rI + 1)), height);
+
+    return { countLeft, countTop, countRight, countBottom };
 }
 
 (async function() {
@@ -60,38 +131,37 @@ function isVisibleFromSide(arr, m) {
             numberOfRows ++;
         }
         PARSED_DATA = {...PARSED_DATA, matrix, numberOfColumns, numberOfRows};
-        
-        /* Further Processing the data */
-        // Trees at boundary/border are always visible - i.e first row, last row, first column, last column
-        const rowIndexVisible = [0, (parseInt(numberOfRows) - 1)];
-        const columnIndexVisible = [0, (parseInt(numberOfColumns) - 1)];
+    
+        /* PROBLEM-1 */
         transposedMatrix = getMatrixTransposed(matrix, numberOfRows, numberOfColumns); // Interchange Row And Columns
-        let countOfVisible = 0;
-        let visibleTrees = [];
+        // const { countOfVisible, visibleTrees } = getTreesVisibleFromOutside(matrix, transposedMatrix, numberOfRows, numberOfColumns);
+        // PARSED_DATA = {...PARSED_DATA, countOfVisible, visibleTrees};
 
+        /* PROBLEM-2 */
+        const rowIndexEdge = [0, (parseInt(numberOfRows) - 1)];
+        const columnIndexEdge = [0, (parseInt(numberOfColumns) - 1)];
+
+        let highestScenicScore = 0;
+    
         for (let row = 0; row < numberOfRows; row++) {
             for (let column = 0; column < numberOfColumns; column++) {
-                let visible = false;
-                let location = `[${row}][${column}]`;
+                
+                if (rowIndexEdge.includes(row) || columnIndexEdge.includes(column)) continue;
                 let height = parseInt(matrix[row][column]);
-                
-                if (rowIndexVisible.includes(row) || columnIndexVisible.includes(column)) {
-                    visible = true;
-                } else {
-                    visible = checkIfTreeIsVisbleFromOutside(matrix, transposedMatrix, height, row, column);
-                }
-                
-                if (visible) {
-                    ++countOfVisible;
-                    let tree = new Tree(height, location, visible);
-                    visibleTrees.push(tree);
-                }
-            }
+                let location = `[${row}][${column}]`;
+
+                let { countLeft, countTop, countRight, countBottom } = getCountOfTreesAllDirection(matrix, transposedMatrix, height , row, column);
+                let scenicScore = countLeft * countTop * countRight * countBottom;
+                if (scenicScore > highestScenicScore) highestScenicScore = scenicScore;
+                // console.log('Height, Location, left, top, right, bottom, scenicScore, highestScenicScore: ',
+                //  height, location, countLeft, countTop, countRight, countBottom, scenicScore, highestScenicScore);
+            }            
         }
-        PARSED_DATA = {...PARSED_DATA, countOfVisible, visibleTrees};
+        console.log(`The Highest Scenic Score is: ${highestScenicScore}`);
     }
     catch (e) {
-        throwCustomError(STANDARD_ERROR_MAP.FILE_READ, e);
+        // throwCustomError(STANDARD_ERROR_MAP.FILE_READ, e);
+        console.log('Error: ', e);
     }
     finally {
         writeParsedDataToFile();
