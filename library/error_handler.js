@@ -13,7 +13,8 @@ const STANDARD_ERROR_MAP = {
 // };
 
 const getErrorObject = (ErrType) => {
-     return new Error(STANDARD_ERROR_MAP[ErrType]);
+     const customError = new Error(STANDARD_ERROR_MAP[ErrType]);
+     return customError;
 };
 
 const throwCustomError = (ErrType, param = null) => {
